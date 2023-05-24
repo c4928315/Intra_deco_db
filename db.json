@@ -1,0 +1,67 @@
+{
+    "Trending": [
+        {
+            "name": "giraff chair",
+            "image": "https://media.istockphoto.com/id/982114216/photo/wood-chair-object-isolated-of-white-background.jpg?s=612x612&w=0&k=20&c=LcyQKOwMOx5r574Xcf-SEDDRXVRMx1TIuTJwqVwJRQQ=",
+            "trending": "sale product",
+            "currentCost": 12000,
+            "previousCost": 14000
+        },
+        {
+            "name": "giraff chair",
+            "image": "https://media.istockphoto.com/id/949454350/photo/wood-chair-object-isolated-of-white-background.jpg?s=612x612&w=0&k=20&c=OOCdqkKM_6QL93VQD9QQQ6zh00RfJFatVQK9VTPI-6w=",
+            "trending": "sale product",
+            "currentCost": 12000,
+            "previousCost": 13000
+        },
+        {
+            "name": "giraff chair",
+            "image": "https://media.istockphoto.com/id/1158684702/photo/puf-chair.jpg?s=612x612&w=0&k=20&c=p0Ao-RQXXxGCzN4ZltRdjOxjY_akiJ-Ohm7s8s0lKP8=",
+            "trending": "sale product",
+            "currentCost": 12000,
+            "previousCost": 14000
+        },
+        {
+            "name": "giraff chair",
+            "image": "https://media.istockphoto.com/id/987409206/photo/blue-wooden-cabinet-isolated-on-white-background-3d-illustration.jpg?s=612x612&w=0&k=20&c=F-Es7RdSCGiTt4UC58Zt1iK4hFyJajrlbsHKP8sZbU8=",
+            "trending": "sale product",
+            "currentCost": 12000,
+            "previousCost": 10000
+        },
+        {
+            "name": "giraff chair",
+            "image": "https://media.istockphoto.com/id/514363293/photo/table-lamp.jpg?s=612x612&w=0&k=20&c=R05c6hJmUOKRM7QifZcfqxArTD6Ggluc5Ju2fdsdTPQ=",
+            "trending": "sale product",
+            "currentCost": 12000,
+            "previousCost": 12000
+        },
+        {
+            "name": "giraff chair",
+            "image": "https://media.istockphoto.com/id/1368524920/photo/yellow-desk-lamp-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=cutngpOF28E22wJMbYVYNehRZpF3kPanHzBrQxmCGwI=",
+            "trending": "sale product",
+            "currentCost": 12000,
+            "previousCost": 12000
+        },
+        {
+            "name": "giraff chair",
+            "image": "https://media.istockphoto.com/id/827667328/photo/stylish-chair-with-white-top-and-light-wooden-legs-standing-on-white.jpg?s=612x612&w=0&k=20&c=-51dX1TwW0chsooaPYcAd0vMiFQZjdpTazyvtuP4Rik=",
+            "trending": "sale product",
+            "currentCost": 12000,
+            "previousCost": 11000
+        },
+        {
+            "name": "giraff chair",
+            "image": "https://media.istockphoto.com/id/1167635269/photo/assorted-decorative-patio-cushions.jpg?s=612x612&w=0&k=20&c=7-CtJRgI1mAiQqxZFNXoOSTUJNco5Iq1OrWUJ7SOxBE=",
+            "trending": "sale product",
+            "currentCost": 12000,
+            "previousCost": 16000
+        },
+        {
+            "name": "giraff chair",
+            "image": "https://media.istockphoto.com/id/946243982/photo/white-empty-room-wall-mockup-with-console-and-vase-decor.jpg?s=612x612&w=0&k=20&c=P4971IstaK4TabMlRh5dUxsK84pzqAgf0a-Rq8m8LFM=",
+            "trending": "sale product",
+            "currentCost": 12000,
+            "previousCost": 12000
+        }
+    ]
+}

@@ -84,5 +84,36 @@
             "currentCost": "$12,000.00",
             "previousCost": "$12,000.00"
         }
+    ],
+
+    "Special Products" : [
+        {
+            "name": "giraff chair",
+            "image": "https://cdn.shopify.com/s/files/1/0083/7474/7221/products/01_2b7fcfec-f7b8-4c86-9f1b-4594887d4d41_385x500.jpg?v=1558437344",
+            "trending": "sale product",
+            "currentCost": "$8,000.00",
+            "previousCost": "$12,000.00"
+        },
+        {
+            "name": "giraff chair",
+            "image": "https://cdn.shopify.com/s/files/1/0083/7474/7221/products/02_daf4e579-9713-4e05-8cf8-e370849fef4d_385x500.jpg?v=1558437349",
+            "trending": "sale product",
+            "currentCost": "$12,000.00",
+            "previousCost": "$12,000.00"
+        },
+        {
+            "name": "giraff chair",
+            "image": "https://cdn.shopify.com/s/files/1/0083/7474/7221/products/04_a0aa788f-f8f9-4f41-bd75-e5dde65bf04a_385x500.jpg?v=1558437359",
+            "trending": "sale product",
+            "currentCost": "$10,000.00",
+            "previousCost": "$12,000.00"
+        },
+        {
+            "name": "giraff chair",
+            "image": "https://cdn.shopify.com/s/files/1/0083/7474/7221/products/06_43cbbf47-81d5-4c46-9713-2d1e0e072558_385x500.jpg?v=1558956926",
+            "trending": "sale product",
+            "currentCost": "$12,000.00",
+            "previousCost": "$12,000.00"
+        }
     ]
 }

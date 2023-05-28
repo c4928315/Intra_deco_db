@@ -176,5 +176,25 @@
             "imagePost": "https://images.pexels.com/photos/3356416/pexels-photo-3356416.jpeg?auto=compress&cs=tinysrgb&w=800",
             "createdAt": "May 21, 2019"
         }
+    ],
+
+    "shoppingCart" : [
+        {
+            "id": 1,
+            "title": "now we are certified a website",
+            "category": "furniture",
+            "description": "Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchange",
+            "imagePost": "https://images.pexels.com/photos/13166647/pexels-photo-13166647.jpeg?auto=compress&cs=tinysrgb&w=1200&lazy=load",
+            "createdAt": "May 21, 2019"
+        },
+
+        {
+            "id": 2,
+            "title": "now we are certified a website",
+            "category": "furniture",
+            "description": "Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchange",
+            "imagePost": "https://images.pexels.com/photos/13166647/pexels-photo-13166647.jpeg?auto=compress&cs=tinysrgb&w=1200&lazy=load",
+            "createdAt": "May 21, 2019"
+        }
     ]
 }

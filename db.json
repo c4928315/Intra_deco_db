@@ -5,7 +5,7 @@
             "name": "aliquam quaerat voluptatem",
             "image": "https://cdn.shopify.com/s/files/1/0083/7474/7221/products/04_a0aa788f-f8f9-4f41-bd75-e5dde65bf04a_385x500.jpg?v=1558437359",
             "trending": "sale product",
-            "currentCost": "$12,000.00",
+            "currentCost": "12,000",
             "previousCost": "$14,000.00"
         },
         {
@@ -13,7 +13,7 @@
             "name": "corporis suscipit libor",
             "image": "https://cdn.shopify.com/s/files/1/0083/7474/7221/products/07_83602417-8900-4adc-9805-21ea9370253d_385x500.jpg?v=1558437386",
             "trending": "sale product",
-            "currentCost": "$14,000.00",
+            "currentCost": "14,000",
             "previousCost": "$13,000.00"
         },
         {
@@ -21,7 +21,7 @@
             "name": "exercita tionem ulam",
             "image": "https://cdn.shopify.com/s/files/1/0083/7474/7221/products/12_389a199c-8b14-4720-8f85-dfb37cf5420a_385x500.jpg?v=1558437406",
             "trending": "sale product",
-            "currentCost": "$10,000.00",
+            "currentCost": "10,000",
             "previousCost": "$14,000.00"
         },
         {
@@ -29,7 +29,7 @@
             "name": "neque porra quisquam",
             "image": "https://cdn.shopify.com/s/files/1/0083/7474/7221/products/12_389a199c-8b14-4720-8f85-dfb37cf5420a_385x500.jpg?v=1558437406",
             "trending": "sale product",
-            "currentCost": "$14,000.00",
+            "currentCost": "14,000",
             "previousCost": "$10,000.00"
         },
         {
@@ -37,32 +37,32 @@
             "name": "autem euaiure repren",
             "image": "https://cdn.shopify.com/s/files/1/0083/7474/7221/products/12_389a199c-8b14-4720-8f85-dfb37cf5420a_385x500.jpg?v=1558437406",
             "trending": "sale product",
-            "currentCost": "$12,000.00",
-            "previousCost": "$12,000.00"
+            "currentCost": "12,000",
+            "previousCost": "12,000"
         },
         {
             "id" : 6,
             "name": "culpa quiocia desunt",
             "image": "https://cdn.shopify.com/s/files/1/0083/7474/7221/products/14_e0b37b51-237b-420c-82f9-016cc180f858_grande.jpg?v=1558437390",
             "trending": "sale product",
-            "currentCost": "$11,000.00",
-            "previousCost": "$12,000.00"
+            "currentCost": "11,000",
+            "previousCost": "12,000"
         },
         {
             "id" : 7,
             "name": "fugiat olutas nulla",
             "image": "https://cdn.shopify.com/s/files/1/0083/7474/7221/products/12_b3f0c4a7-d89d-47f5-8cc7-c19d8cec2094_grande.jpg?v=1558437406",
             "trending": "sale product",
-            "currentCost": "$12,000.00",
-            "previousCost": "$11,000.00"
+            "currentCost": "12,000",
+            "previousCost": "11,000"
         },
         {
             "id" : 8,
             "name": "nostrum exercitationem",
             "image": "https://cdn.shopify.com/s/files/1/0083/7474/7221/products/10_247e9960-9f5e-4346-bd9d-2ef6176fed02_400x400.jpg?v=1558956762",
             "trending": "sale product",
-            "currentCost": "$12,000.00",
-            "previousCost": "$16,000.00"
+            "currentCost": "12,000",
+            "previousCost": "16,000"
         },
         {
             "id" : 9,

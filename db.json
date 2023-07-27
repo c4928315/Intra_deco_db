@@ -8,7 +8,8 @@
             "currentCost": 12000,
             "previousCost": "14000",
             "color": "red",
-            "size": "medium"
+            "size": "medium",
+            "inCart": 1
         },
         {
             "id" : 2,
@@ -18,7 +19,8 @@
             "currentCost": "14000",
             "previousCost": "13000",
             "color": "red",
-            "size": "medium"
+            "size": "medium",
+            "inCart": 1
         },
         {
             "id" : 3,
@@ -28,7 +30,8 @@
             "currentCost": "10000",
             "previousCost": "14000",
             "color": "red",
-            "size": "medium"
+            "size": "medium",
+            "inCart": 1
         },
         {
             "id" : 4,
@@ -38,7 +41,8 @@
             "currentCost": "14000",
             "previousCost": "10000",
             "color": "red",
-            "size": "medium"
+            "size": "medium",
+            "inCart": 1
         },
         {
             "id" : 5,
@@ -48,7 +52,8 @@
             "currentCost": "12000",
             "previousCost": "12000",
             "color": "red",
-            "size": "medium"
+            "size": "medium",
+            "inCart": 1
         },
         {
             "id" : 6,
@@ -58,7 +63,8 @@
             "currentCost": "11000",
             "previousCost": "12000",
             "color": "red",
-            "size": "medium"
+            "size": "medium",
+            "inCart": 1
         },
         {
             "id" : 7,
@@ -68,7 +74,8 @@
             "currentCost": "12000",
             "previousCost": "11000",
             "color": "red",
-            "size": "medium"
+            "size": "medium",
+            "inCart": 1
         },
         {
             "id" : 8,
@@ -78,7 +85,8 @@
             "currentCost": "12000",
             "previousCost": "16000",
             "color": "red",
-            "size": "medium"
+            "size": "medium",
+            "inCart": 1
         },
         {
             "id" : 9,
@@ -88,7 +96,8 @@
             "currentCost": "$8000",
             "previousCost": "$12000",
             "color": "red",
-            "size": "medium"
+            "size": "medium",
+            "inCart": 1
         },
         {
             "id" : 10,
@@ -98,7 +107,8 @@
             "currentCost": "12000",
             "previousCost": "12000",
             "color": "red",
-            "size": "medium"
+            "size": "medium",
+            "inCart": 1
         },
         {
             "id" : 11,
@@ -108,7 +118,8 @@
             "currentCost": "10000",
             "previousCost": "12000",
             "color": "red",
-            "size": "medium"
+            "size": "medium",
+            "inCart": 1
         },
         {
             "id" : 12,
@@ -118,7 +129,8 @@
             "currentCost": "12000",
             "previousCost": "12000",
             "color": "red",
-            "size": "medium"
+            "size": "medium",
+            "inCart": 1
         }
     ],
 

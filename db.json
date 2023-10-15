@@ -7,7 +7,7 @@
   "asset": "Aurora",
   "fault": "Aliquam non mauris.",
   "owner": "Elbertine Simonel",
-  "status": null
+  "status": "pending"
 }, {
   "id": 2,
   "refference": "#fa47cc",
@@ -16,7 +16,7 @@
   "asset": "SL-Class",
   "fault": "In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna.",
   "owner": "Luelle Ames",
-  "status": null
+  "status": "pending"
 }, {
   "id": 3,
   "refference": "#93dc55",
@@ -25,7 +25,7 @@
   "asset": "NSX",
   "fault": "Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla.",
   "owner": "Kelci Brea",
-  "status": null
+  "status": "pending"
 }, {
   "id": 4,
   "refference": "#b6c001",
@@ -34,7 +34,7 @@
   "asset": "Integra",
   "fault": "Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.",
   "owner": "Erastus Tesh",
-  "status": null
+  "status": "pending"
 }, {
   "id": 5,
   "refference": "#04c800",
@@ -43,7 +43,7 @@
   "asset": "Sonata",
   "fault": "Morbi non quam nec dui luctus rutrum.",
   "owner": "Kara Ebhardt",
-  "status": null
+  "status": "pending"
 }, {
   "id": 6,
   "refference": "#b2a0ed",
@@ -52,7 +52,7 @@
   "asset": "Century",
   "fault": "Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor.",
   "owner": "Savina Tschiersch",
-  "status": null
+  "status": "pending"
 }, {
   "id": 7,
   "refference": "#73d3a6",
@@ -61,7 +61,7 @@
   "asset": "911",
   "fault": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
   "owner": "Lexine Kenshole",
-  "status": null
+  "status": "pending"
 }, {
   "id": 8,
   "refference": "#8be4da",
@@ -70,7 +70,7 @@
   "asset": "Escape",
   "fault": "Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat.",
   "owner": "Anestassia Lawrie",
-  "status": null
+  "status": "approved"
 }, {
   "id": 9,
   "refference": "#e86013",
@@ -79,7 +79,7 @@
   "asset": "Aventador",
   "fault": "Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique.",
   "owner": "Sari Hellwing",
-  "status": null
+  "status": "approved"
 }, {
   "id": 10,
   "refference": "#bba511",
@@ -88,7 +88,7 @@
   "asset": "Cavalier",
   "fault": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
   "owner": "Loren Pendlenton",
-  "status": null
+  "status": "approved"
 }, {
   "id": 11,
   "refference": "#e8b2fb",
@@ -97,7 +97,7 @@
   "asset": "Sonoma Club Coupe",
   "fault": "Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.",
   "owner": "Ilaire Kenafaque",
-  "status": null
+  "status": "approved"
 }, {
   "id": 12,
   "refference": "#1d8316",
@@ -106,7 +106,7 @@
   "asset": "3500 Club Coupe",
   "fault": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.",
   "owner": "Marten Luberti",
-  "status": null
+  "status": "approved"
 }, {
   "id": 13,
   "refference": "#6e19f3",
@@ -115,7 +115,7 @@
   "asset": "Grand Vitara",
   "fault": "Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
   "owner": "Lynette Jayme",
-  "status": null
+  "status": "approved"
 }, {
   "id": 14,
   "refference": "#3ecfce",
@@ -124,7 +124,7 @@
   "asset": "MX-5",
   "fault": "Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",
   "owner": "Even Maxted",
-  "status": null
+  "status": "approved"
 }, {
   "id": 15,
   "refference": "#fd087d",
@@ -133,7 +133,7 @@
   "asset": "Baja",
   "fault": "Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.",
   "owner": "Nehemiah Paylie",
-  "status": null
+  "status": "approved"
 }, {
   "id": 16,
   "refference": "#e20a87",
@@ -142,7 +142,7 @@
   "asset": "Xterra",
   "fault": "In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
   "owner": "Connie Malster",
-  "status": null
+  "status": "approved"
 }, {
   "id": 17,
   "refference": "#00bda0",
@@ -151,7 +151,7 @@
   "asset": "Passat",
   "fault": "Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
   "owner": "Rodolfo Giorgione",
-  "status": null
+  "status": "approved"
 }, {
   "id": 18,
   "refference": "#be7155",
@@ -160,7 +160,7 @@
   "asset": "Accord Crosstour",
   "fault": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",
   "owner": "Casey McRavey",
-  "status": null
+  "status": "approved"
 }, {
   "id": 19,
   "refference": "#23a09a",
@@ -169,7 +169,7 @@
   "asset": "TSX",
   "fault": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero.",
   "owner": "Stacie Beecham",
-  "status": null
+  "status": "approved"
 }, {
   "id": 20,
   "refference": "#132266",
@@ -178,7 +178,7 @@
   "asset": "RX-7",
   "fault": "Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",
   "owner": "Maggy McDirmid",
-  "status": null
+  "status": "approved"
 }, {
   "id": 21,
   "refference": "#78ef0e",
@@ -187,7 +187,7 @@
   "asset": "Passat",
   "fault": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat.",
   "owner": "Cobbie Flobert",
-  "status": null
+  "status": "approved"
 }, {
   "id": 22,
   "refference": "#9e8f14",
@@ -196,7 +196,7 @@
   "asset": "Silhouette",
   "fault": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque.",
   "owner": "Ely Peniman",
-  "status": null
+  "status": "approved"
 }, {
   "id": 23,
   "refference": "#5b145b",
@@ -205,7 +205,7 @@
   "asset": "GX",
   "fault": "Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
   "owner": "Meridith Pridmore",
-  "status": null
+  "status": "approved"
 }, {
   "id": 24,
   "refference": "#2cc001",
@@ -214,7 +214,7 @@
   "asset": "6000",
   "fault": "Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.",
   "owner": "Renault Corn",
-  "status": null
+  "status": "pending"
 }, {
   "id": 25,
   "refference": "#727ceb",
@@ -223,7 +223,7 @@
   "asset": "Yukon XL 2500",
   "fault": "Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.",
   "owner": "Ursuline Rathke",
-  "status": null
+  "status": "pending"
 }, {
   "id": 26,
   "refference": "#b5a2a2",
@@ -232,7 +232,7 @@
   "asset": "Titan",
   "fault": "Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo.",
   "owner": "Fields Rippon",
-  "status": null
+  "status": "pending"
 }, {
   "id": 27,
   "refference": "#696f1f",
@@ -241,7 +241,7 @@
   "asset": "X6 M",
   "fault": "Nullam sit amet turpis elementum ligula vehicula consequat.",
   "owner": "Harland Roake",
-  "status": null
+  "status": "pending"
 }, {
   "id": 28,
   "refference": "#78825c",
@@ -250,7 +250,7 @@
   "asset": "Wrangler",
   "fault": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet.",
   "owner": "Jammal Conaboy",
-  "status": null
+  "status": "pending"
 }, {
   "id": 29,
   "refference": "#4a19b2",
@@ -259,7 +259,7 @@
   "asset": "Suburban",
   "fault": "Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
   "owner": "Kristian Bockmann",
-  "status": null
+  "status": "pending"
 }, {
   "id": 30,
   "refference": "#de150c",
@@ -268,7 +268,7 @@
   "asset": "3500",
   "fault": "Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl.",
   "owner": "Todd Swinyard",
-  "status": null
+  "status": "approved"
 }]
 
 ,

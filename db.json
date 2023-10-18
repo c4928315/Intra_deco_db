@@ -197,278 +197,668 @@
   }
 ],    
     
-"requests": [{
-  "id": 1,
-  "refference": "#3f20b7",
-  "vendor": "Overhold",
-  "location": "Fuxin",
-  "asset": "Aurora",
-  "fault": "Aliquam",
-  "recurrence": "Elbertine Simonel",
-  "status": "pending"
-}, {
-  "id": 2,
-  "refference": "#fa47cc",
-  "vendor": "Keylex",
-  "location": "Maofan",
-  "asset": "SL-Class",
-  "fault": "In congue",
-  "recurrence": "Luelle Ames",
-  "status": "pending"
-}, {
-  "id": 3,
-  "refference": "#93dc55",
-  "vendor": "Fintone",
-  "location": "Salaverry",
-  "asset": "NSX",
-  "fault": "Nunc",
-  "recurrence": "Kelci Brea",
-  "status": "pending"
-}, {
-  "id": 4,
-  "refference": "#b6c001",
-  "vendor": "Matsoft",
-  "location": "Gavarr",
-  "asset": "Integra",
-  "fault": "Nulla",
-  "recurrence": "Erastus Tesh",
-  "status": "pending"
-}, {
-  "id": 5,
-  "refference": "#04c800",
-  "vendor": "Kanlam",
-  "location": "Surin",
-  "asset": "Sonata",
-  "fault": "Morbi",
-  "recurrence": "Kara Ebhardt",
-  "status": "pending"
-}, {
-  "id": 6,
-  "refference": "#b2a0ed",
-  "vendor": "Cardify",
-  "location": "San Agustin",
-  "asset": "Century",
-  "fault": "Morbi ",
-  "recurrence": "Savina Tschiersch",
-  "status": "pending"
-}, {
-  "id": 7,
-  "refference": "#73d3a6",
-  "vendor": "Prodder",
-  "location": "El Suyatal",
-  "asset": "911",
-  "fault": "Morbilectus",
-  "recurrence": "Lexine Kenshole",
-  "status": "pending"
-}, {
-  "id": 8,
-  "refference": "#8be4da",
-  "vendor": "Sonsing",
-  "location": "Nhà Bàng",
-  "asset": "Escape",
-  "fault": "Integer",
-  "recurrence": "Anestassia Lawrie",
-  "status": "approved"
-}, {
-  "id": 9,
-  "refference": "#e86013",
-  "vendor": "Viva",
-  "location": "Wates",
-  "asset": "Aventador",
-  "fault": "Duis mattis",
-  "recurrence": "Sari Hellwing",
-  "status": "approved"
-}, {
-  "id": 10,
-  "refference": "#bba511",
-  "vendor": "Y-find",
-  "location": "Amaury",
-  "asset": "Cavalier",
-  "fault": "Aenean lectus",
-  "recurrence": "Loren Pendlenton",
-  "status": "approved"
-}, {
-  "id": 11,
-  "refference": "#e8b2fb",
-  "vendor": "Namfix",
-  "location": "Sosnovaya Polyana",
-  "asset": "Sonoma Club Coupe",
-  "fault": "Aenean auctor",
-  "recurrence": "Ilaire Kenafaque",
-  "status": "approved"
-}, {
-  "id": 12,
-  "refference": "#1d8316",
-  "vendor": "Biodex",
-  "location": "Palotina",
-  "asset": "3500 Club Coupe",
-  "fault": "Morbidio",
-  "recurrence": "Marten Luberti",
-  "status": "approved"
-}, {
-  "id": 13,
-  "refference": "#6e19f3",
-  "vendor": "Solarbreeze",
-  "location": "Krajenka",
-  "asset": "Grand Vitara",
-  "fault": "Namcongue",
-  "recurrence": "Lynette Jayme",
-  "status": "approved"
-}, {
-  "id": 14,
-  "refference": "#3ecfce",
-  "vendor": "Asoka",
-  "location": "Huazhuang",
-  "asset": "MX-5",
-  "fault": "Mauris lacinia",
-  "recurrence": "Even Maxted",
-  "status": "approved"
-}, {
-  "id": 15,
-  "refference": "#fd087d",
-  "vendor": "Zathin",
-  "location": "Liuli",
-  "asset": "Baja",
-  "fault": "Maecenas",
-  "recurrence": "Nehemiah Paylie",
-  "status": "approved"
-}, {
-  "id": 16,
-  "refference": "#e20a87",
-  "vendor": "Transcof",
-  "location": "Stamboliyski",
-  "asset": "Xterra",
-  "fault": "In tempo",
-  "recurrence": "Connie Malster",
-  "status": "approved"
-}, {
-  "id": 17,
-  "refference": "#00bda0",
-  "vendor": "Cardguard",
-  "location": "Tucuran",
-  "asset": "Passat",
-  "fault": "Integerac",
-  "recurrence": "Rodolfo Giorgione",
-  "status": "approved"
-}, {
-  "id": 18,
-  "refference": "#be7155",
-  "vendor": "Sub-Ex",
-  "location": "Zhangaqorghan",
-  "asset": "Accord Crosstour",
-  "fault": "Quisque id",
-  "recurrence": "Casey McRavey",
-  "status": "approved"
-}, {
-  "id": 19,
-  "refference": "#23a09a",
-  "vendor": "Bigtax",
-  "location": "Pataha",
-  "asset": "TSX",
-  "fault": "Quisque",
-  "recurrence": "Stacie Beecham",
-  "status": "approved"
-}, {
-  "id": 20,
-  "refference": "#132266",
-  "vendor": "Hatity",
-  "location": "Sirre",
-  "asset": "RX-7",
-  "fault": "Morbi quis",
-  "recurrence": "Maggy McDirmid",
-  "status": "approved"
-}, {
-  "id": 21,
-  "refference": "#78ef0e",
-  "vendor": "It",
-  "location": "Guaporé",
-  "asset": "Passat",
-  "fault": "Aeneanlectus",
-  "recurrence": "Cobbie Flobert",
-  "status": "approved"
-}, {
-  "id": 22,
-  "refference": "#9e8f14",
-  "vendor": "Keylex",
-  "location": "Mayhan",
-  "asset": "Silhouette",
-  "fault": "Inhac ",
-  "recurrence": "Ely Peniman",
-  "status": "approved"
-}, {
-  "id": 23,
-  "refference": "#5b145b",
-  "vendor": "Trippledex",
-  "location": "Vänersborg",
-  "asset": "GX",
-  "fault": "Namnulla",
-  "recurrence": "Meridith Pridmore",
-  "status": "approved"
-}, {
-  "id": 24,
-  "refference": "#2cc001",
-  "vendor": "Alpha",
-  "location": "Bahāwalpur",
-  "asset": "6000",
-  "fault": "Morbiut",
-  "recurrence": "Renault Corn",
-  "status": "pending"
-}, {
-  "id": 25,
-  "refference": "#727ceb",
-  "vendor": "Tampflex",
-  "location": "Maple Creek",
-  "asset": "Yukon XL 2500",
-  "fault": "Pellentesque",
-  "recurrence": "Ursuline Rathke",
-  "status": "pending"
-}, {
-  "id": 26,
-  "refference": "#b5a2a2",
-  "vendor": "Temp",
-  "location": "Jiabei",
-  "asset": "Titan",
-  "fault": "Aenean",
-  "recurrence": "Fields Rippon",
-  "status": "pending"
-}, {
-  "id": 27,
-  "refference": "#696f1f",
-  "vendor": "Andalax",
-  "location": "Aime",
-  "asset": "X6 M",
-  "fault": "Nullam",
-  "recurrence": "Harland Roake",
-  "status": "pending"
-}, {
-  "id": 28,
-  "refference": "#78825c",
-  "vendor": "Matsoft",
-  "location": "Malambo",
-  "asset": "Wrangler",
-  "fault": "Maecenas",
-  "recurrence": "Jammal Conaboy",
-  "status": "pending"
-}, {
-  "id": 29,
-  "refference": "#4a19b2",
-  "vendor": "Voltsillam",
-  "location": "Marcos Juárez",
-  "asset": "Suburban",
-  "fault": "Ut tellus",
-  "recurrence": "Kristian Bockmann",
-  "status": "pending"
-}, {
-  "id": 30,
-  "refference": "#de150c",
-  "vendor": "Fixflex",
-  "location": "Chalon-sur-Saône",
-  "asset": "3500",
-  "fault": "Suspendisse",
-  "recurrence": "Todd Swinyard",
-  "status": "pending"
-}]
-
+"requests": [
+    {
+      "Id": 1,
+      "RequestRef": "RequestRef",
+      "Status": { "Id": 1, "Name": "Pending" },
+      "Location": { "Id": 1, "Name": "Narok" },
+      "Asset": [
+        { "Id": 1, "Name": "Pump" },
+        { "Id": 2, "Name": "Generator" }
+      ],
+      "Fault": [
+        { "Id": 1, "Name": "Faulty POS" },
+        { "Id": 2, "Name": "CPU Damage" }
+      ],
+      "WorkOrder": {
+        "Title": "POS and CPU",
+        "Description": "Repair the POS and CPU",
+        "CategoryOfWork": { "Id": 1, "Name": "Engineering" },
+        "Priority": "Low",
+        "AssignTeam": { "Id": 1, "Name": "Primary Team" },
+        "AssignAdditionalTeam": { "Id": 2, "Name": "Secondary Team" },
+        "TechnicianSignature": "True",
+        "Checklist": [
+          { "Id": 1, "Name": "POS Checklist" },
+          { "Id": 2, "Name": "CPU Checklist" }
+        ],
+        "AttachedFiles": [
+          { "Id": 1, "Name": "File 1" },
+          { "Id": 2, "Name": "File 2" }
+        ]
+      },
+      "CreatedBy": "Chris Smith",
+      "DateCreated": "18/10/2023"
+    },
+    {
+      "Id": 2,
+      "RequestRef": "RequestRef",
+      "Status": { "Id": 1, "Name": "Pending" },
+      "Location": { "Id": 1, "Name": "Narok" },
+      "Asset": [
+        { "Id": 1, "Name": "Pump" },
+        { "Id": 2, "Name": "Generator" }
+      ],
+      "Fault": [
+        { "Id": 1, "Name": "Faulty POS" },
+        { "Id": 2, "Name": "CPU Damage" }
+      ],
+      "WorkOrder": {
+        "Title": "POS and CPU",
+        "Description": "Repair the POS and CPU",
+        "CategoryOfWork": { "Id": 1, "Name": "Engineering" },
+        "Priority": "Low",
+        "AssignTeam": { "Id": 1, "Name": "Primary Team" },
+        "AssignAdditionalTeam": { "Id": 2, "Name": "Secondary Team" },
+        "TechnicianSignature": "True",
+        "Checklist": [
+          { "Id": 1, "Name": "POS Checklist" },
+          { "Id": 2, "Name": "CPU Checklist" }
+        ],
+        "AttachedFiles": [
+          { "Id": 1, "Name": "File 1" },
+          { "Id": 2, "Name": "File 2" }
+        ]
+      },
+      "CreatedBy": "Chris Smith",
+      "DateCreated": "18/10/2023"
+    },
+    {
+      "Id": 3,
+      "RequestRef": "RequestRef",
+      "Status": { "Id": 1, "Name": "Pending" },
+      "Location": { "Id": 1, "Name": "Narok" },
+      "Asset": [
+        { "Id": 1, "Name": "Pump" },
+        { "Id": 2, "Name": "Generator" }
+      ],
+      "Fault": [
+        { "Id": 1, "Name": "Faulty POS" },
+        { "Id": 2, "Name": "CPU Damage" }
+      ],
+      "WorkOrder": {
+        "Title": "POS and CPU",
+        "Description": "Repair the POS and CPU",
+        "CategoryOfWork": { "Id": 1, "Name": "Engineering" },
+        "Priority": "Low",
+        "AssignTeam": { "Id": 1, "Name": "Primary Team" },
+        "AssignAdditionalTeam": { "Id": 2, "Name": "Secondary Team" },
+        "TechnicianSignature": "True",
+        "Checklist": [
+          { "Id": 1, "Name": "POS Checklist" },
+          { "Id": 2, "Name": "CPU Checklist" }
+        ],
+        "AttachedFiles": [
+          { "Id": 1, "Name": "File 1" },
+          { "Id": 2, "Name": "File 2" }
+        ]
+      },
+      "CreatedBy": "Chris Smith",
+      "DateCreated": "18/10/2023"
+    },
+    {
+      "Id": 4,
+      "RequestRef": "RequestRef",
+      "Status": { "Id": 1, "Name": "Pending" },
+      "Location": { "Id": 1, "Name": "Narok" },
+      "Asset": [
+        { "Id": 1, "Name": "Pump" },
+        { "Id": 2, "Name": "Generator" }
+      ],
+      "Fault": [
+        { "Id": 1, "Name": "Faulty POS" },
+        { "Id": 2, "Name": "CPU Damage" }
+      ],
+      "WorkOrder": {
+        "Title": "POS and CPU",
+        "Description": "Repair the POS and CPU",
+        "CategoryOfWork": { "Id": 1, "Name": "Engineering" },
+        "Priority": "Low",
+        "AssignTeam": { "Id": 1, "Name": "Primary Team" },
+        "AssignAdditionalTeam": { "Id": 2, "Name": "Secondary Team" },
+        "TechnicianSignature": "True",
+        "Checklist": [
+          { "Id": 1, "Name": "POS Checklist" },
+          { "Id": 2, "Name": "CPU Checklist" }
+        ],
+        "AttachedFiles": [
+          { "Id": 1, "Name": "File 1" },
+          { "Id": 2, "Name": "File 2" }
+        ]
+      },
+      "CreatedBy": "Chris Smith",
+      "DateCreated": "18/10/2023"
+    },
+    {
+      "Id": 5,
+      "RequestRef": "RequestRef",
+      "Status": { "Id": 1, "Name": "Pending" },
+      "Location": { "Id": 1, "Name": "Narok" },
+      "Asset": [
+        { "Id": 1, "Name": "Pump" },
+        { "Id": 2, "Name": "Generator" }
+      ],
+      "Fault": [
+        { "Id": 1, "Name": "Faulty POS" },
+        { "Id": 2, "Name": "CPU Damage" }
+      ],
+      "WorkOrder": {
+        "Title": "POS and CPU",
+        "Description": "Repair the POS and CPU",
+        "CategoryOfWork": { "Id": 1, "Name": "Engineering" },
+        "Priority": "Low",
+        "AssignTeam": { "Id": 1, "Name": "Primary Team" },
+        "AssignAdditionalTeam": { "Id": 2, "Name": "Secondary Team" },
+        "TechnicianSignature": "True",
+        "Checklist": [
+          { "Id": 1, "Name": "POS Checklist" },
+          { "Id": 2, "Name": "CPU Checklist" }
+        ],
+        "AttachedFiles": [
+          { "Id": 1, "Name": "File 1" },
+          { "Id": 2, "Name": "File 2" }
+        ]
+      },
+      "CreatedBy": "Chris Smith",
+      "DateCreated": "18/10/2023"
+    },
+    {
+      "Id": 6,
+      "RequestRef": "RequestRef",
+      "Status": { "Id": 1, "Name": "Pending" },
+      "Location": { "Id": 1, "Name": "Narok" },
+      "Asset": [
+        { "Id": 1, "Name": "Pump" },
+        { "Id": 2, "Name": "Generator" }
+      ],
+      "Fault": [
+        { "Id": 1, "Name": "Faulty POS" },
+        { "Id": 2, "Name": "CPU Damage" }
+      ],
+      "WorkOrder": {
+        "Title": "POS and CPU",
+        "Description": "Repair the POS and CPU",
+        "CategoryOfWork": { "Id": 1, "Name": "Engineering" },
+        "Priority": "Low",
+        "AssignTeam": { "Id": 1, "Name": "Primary Team" },
+        "AssignAdditionalTeam": { "Id": 2, "Name": "Secondary Team" },
+        "TechnicianSignature": "True",
+        "Checklist": [
+          { "Id": 1, "Name": "POS Checklist" },
+          { "Id": 2, "Name": "CPU Checklist" }
+        ],
+        "AttachedFiles": [
+          { "Id": 1, "Name": "File 1" },
+          { "Id": 2, "Name": "File 2" }
+        ]
+      },
+      "CreatedBy": "Chris Smith",
+      "DateCreated": "18/10/2023"
+    },
+    {
+      "Id": 7,
+      "RequestRef": "RequestRef",
+      "Status": { "Id": 1, "Name": "Pending" },
+      "Location": { "Id": 1, "Name": "Narok" },
+      "Asset": [
+        { "Id": 1, "Name": "Pump" },
+        { "Id": 2, "Name": "Generator" }
+      ],
+      "Fault": [
+        { "Id": 1, "Name": "Faulty POS" },
+        { "Id": 2, "Name": "CPU Damage" }
+      ],
+      "WorkOrder": {
+        "Title": "POS and CPU",
+        "Description": "Repair the POS and CPU",
+        "CategoryOfWork": { "Id": 1, "Name": "Engineering" },
+        "Priority": "Low",
+        "AssignTeam": { "Id": 1, "Name": "Primary Team" },
+        "AssignAdditionalTeam": { "Id": 2, "Name": "Secondary Team" },
+        "TechnicianSignature": "True",
+        "Checklist": [
+          { "Id": 1, "Name": "POS Checklist" },
+          { "Id": 2, "Name": "CPU Checklist" }
+        ],
+        "AttachedFiles": [
+          { "Id": 1, "Name": "File 1" },
+          { "Id": 2, "Name": "File 2" }
+        ]
+      },
+      "CreatedBy": "Chris Smith",
+      "DateCreated": "18/10/2023"
+    },
+    {
+      "Id": 8,
+      "RequestRef": "RequestRef",
+      "Status": { "Id": 1, "Name": "Pending" },
+      "Location": { "Id": 1, "Name": "Narok" },
+      "Asset": [
+        { "Id": 1, "Name": "Pump" },
+        { "Id": 2, "Name": "Generator" }
+      ],
+      "Fault": [
+        { "Id": 1, "Name": "Faulty POS" },
+        { "Id": 2, "Name": "CPU Damage" }
+      ],
+      "WorkOrder": {
+        "Title": "POS and CPU",
+        "Description": "Repair the POS and CPU",
+        "CategoryOfWork": { "Id": 1, "Name": "Engineering" },
+        "Priority": "Low",
+        "AssignTeam": { "Id": 1, "Name": "Primary Team" },
+        "AssignAdditionalTeam": { "Id": 2, "Name": "Secondary Team" },
+        "TechnicianSignature": "True",
+        "Checklist": [
+          { "Id": 1, "Name": "POS Checklist" },
+          { "Id": 2, "Name": "CPU Checklist" }
+        ],
+        "AttachedFiles": [
+          { "Id": 1, "Name": "File 1" },
+          { "Id": 2, "Name": "File 2" }
+        ]
+      },
+      "CreatedBy": "Chris Smith",
+      "DateCreated": "18/10/2023"
+    },
+    {
+      "Id": 9,
+      "RequestRef": "RequestRef",
+      "Status": { "Id": 1, "Name": "Pending" },
+      "Location": { "Id": 1, "Name": "Narok" },
+      "Asset": [
+        { "Id": 1, "Name": "Pump" },
+        { "Id": 2, "Name": "Generator" }
+      ],
+      "Fault": [
+        { "Id": 1, "Name": "Faulty POS" },
+        { "Id": 2, "Name": "CPU Damage" }
+      ],
+      "WorkOrder": {
+        "Title": "POS and CPU",
+        "Description": "Repair the POS and CPU",
+        "CategoryOfWork": { "Id": 1, "Name": "Engineering" },
+        "Priority": "Low",
+        "AssignTeam": { "Id": 1, "Name": "Primary Team" },
+        "AssignAdditionalTeam": { "Id": 2, "Name": "Secondary Team" },
+        "TechnicianSignature": "True",
+        "Checklist": [
+          { "Id": 1, "Name": "POS Checklist" },
+          { "Id": 2, "Name": "CPU Checklist" }
+        ],
+        "AttachedFiles": [
+          { "Id": 1, "Name": "File 1" },
+          { "Id": 2, "Name": "File 2" }
+        ]
+      },
+      "CreatedBy": "Chris Smith",
+      "DateCreated": "18/10/2023"
+    },
+    {
+      "Id": 10,
+      "RequestRef": "RequestRef",
+      "Status": { "Id": 1, "Name": "Pending" },
+      "Location": { "Id": 1, "Name": "Narok" },
+      "Asset": [
+        { "Id": 1, "Name": "Pump" },
+        { "Id": 2, "Name": "Generator" }
+      ],
+      "Fault": [
+        { "Id": 1, "Name": "Faulty POS" },
+        { "Id": 2, "Name": "CPU Damage" }
+      ],
+      "WorkOrder": {
+        "Title": "POS and CPU",
+        "Description": "Repair the POS and CPU",
+        "CategoryOfWork": { "Id": 1, "Name": "Engineering" },
+        "Priority": "Low",
+        "AssignTeam": { "Id": 1, "Name": "Primary Team" },
+        "AssignAdditionalTeam": { "Id": 2, "Name": "Secondary Team" },
+        "TechnicianSignature": "True",
+        "Checklist": [
+          { "Id": 1, "Name": "POS Checklist" },
+          { "Id": 2, "Name": "CPU Checklist" }
+        ],
+        "AttachedFiles": [
+          { "Id": 1, "Name": "File 1" },
+          { "Id": 2, "Name": "File 2" }
+        ]
+      },
+      "CreatedBy": "Chris Smith",
+      "DateCreated": "18/10/2023"
+    },
+    {
+      "Id": 11,
+      "RequestRef": "RequestRef",
+      "Status": { "Id": 1, "Name": "Pending" },
+      "Location": { "Id": 1, "Name": "Narok" },
+      "Asset": [
+        { "Id": 1, "Name": "Pump" },
+        { "Id": 2, "Name": "Generator" }
+      ],
+      "Fault": [
+        { "Id": 1, "Name": "Faulty POS" },
+        { "Id": 2, "Name": "CPU Damage" }
+      ],
+      "WorkOrder": {
+        "Title": "POS and CPU",
+        "Description": "Repair the POS and CPU",
+        "CategoryOfWork": { "Id": 1, "Name": "Engineering" },
+        "Priority": "Low",
+        "AssignTeam": { "Id": 1, "Name": "Primary Team" },
+        "AssignAdditionalTeam": { "Id": 2, "Name": "Secondary Team" },
+        "TechnicianSignature": "True",
+        "Checklist": [
+          { "Id": 1, "Name": "POS Checklist" },
+          { "Id": 2, "Name": "CPU Checklist" }
+        ],
+        "AttachedFiles": [
+          { "Id": 1, "Name": "File 1" },
+          { "Id": 2, "Name": "File 2" }
+        ]
+      },
+      "CreatedBy": "Chris Smith",
+      "DateCreated": "18/10/2023"
+    },
+    {
+      "Id": 12,
+      "RequestRef": "RequestRef",
+      "Status": { "Id": 1, "Name": "Pending" },
+      "Location": { "Id": 1, "Name": "Narok" },
+      "Asset": [
+        { "Id": 1, "Name": "Pump" },
+        { "Id": 2, "Name": "Generator" }
+      ],
+      "Fault": [
+        { "Id": 1, "Name": "Faulty POS" },
+        { "Id": 2, "Name": "CPU Damage" }
+      ],
+      "WorkOrder": {
+        "Title": "POS and CPU",
+        "Description": "Repair the POS and CPU",
+        "CategoryOfWork": { "Id": 1, "Name": "Engineering" },
+        "Priority": "Low",
+        "AssignTeam": { "Id": 1, "Name": "Primary Team" },
+        "AssignAdditionalTeam": { "Id": 2, "Name": "Secondary Team" },
+        "TechnicianSignature": "True",
+        "Checklist": [
+          { "Id": 1, "Name": "POS Checklist" },
+          { "Id": 2, "Name": "CPU Checklist" }
+        ],
+        "AttachedFiles": [
+          { "Id": 1, "Name": "File 1" },
+          { "Id": 2, "Name": "File 2" }
+        ]
+      },
+      "CreatedBy": "Chris Smith",
+      "DateCreated": "18/10/2023"
+    },
+    {
+      "Id": 13,
+      "RequestRef": "RequestRef",
+      "Status": { "Id": 1, "Name": "Pending" },
+      "Location": { "Id": 1, "Name": "Narok" },
+      "Asset": [
+        { "Id": 1, "Name": "Pump" },
+        { "Id": 2, "Name": "Generator" }
+      ],
+      "Fault": [
+        { "Id": 1, "Name": "Faulty POS" },
+        { "Id": 2, "Name": "CPU Damage" }
+      ],
+      "WorkOrder": {
+        "Title": "POS and CPU",
+        "Description": "Repair the POS and CPU",
+        "CategoryOfWork": { "Id": 1, "Name": "Engineering" },
+        "Priority": "Low",
+        "AssignTeam": { "Id": 1, "Name": "Primary Team" },
+        "AssignAdditionalTeam": { "Id": 2, "Name": "Secondary Team" },
+        "TechnicianSignature": "True",
+        "Checklist": [
+          { "Id": 1, "Name": "POS Checklist" },
+          { "Id": 2, "Name": "CPU Checklist" }
+        ],
+        "AttachedFiles": [
+          { "Id": 1, "Name": "File 1" },
+          { "Id": 2, "Name": "File 2" }
+        ]
+      },
+      "CreatedBy": "Chris Smith",
+      "DateCreated": "18/10/2023"
+    },
+    {
+      "Id": 14,
+      "RequestRef": "RequestRef",
+      "Status": { "Id": 1, "Name": "Pending" },
+      "Location": { "Id": 1, "Name": "Narok" },
+      "Asset": [
+        { "Id": 1, "Name": "Pump" },
+        { "Id": 2, "Name": "Generator" }
+      ],
+      "Fault": [
+        { "Id": 1, "Name": "Faulty POS" },
+        { "Id": 2, "Name": "CPU Damage" }
+      ],
+      "WorkOrder": {
+        "Title": "POS and CPU",
+        "Description": "Repair the POS and CPU",
+        "CategoryOfWork": { "Id": 1, "Name": "Engineering" },
+        "Priority": "Low",
+        "AssignTeam": { "Id": 1, "Name": "Primary Team" },
+        "AssignAdditionalTeam": { "Id": 2, "Name": "Secondary Team" },
+        "TechnicianSignature": "True",
+        "Checklist": [
+          { "Id": 1, "Name": "POS Checklist" },
+          { "Id": 2, "Name": "CPU Checklist" }
+        ],
+        "AttachedFiles": [
+          { "Id": 1, "Name": "File 1" },
+          { "Id": 2, "Name": "File 2" }
+        ]
+      },
+      "CreatedBy": "Chris Smith",
+      "DateCreated": "18/10/2023"
+    },
+    {
+      "Id": 15,
+      "RequestRef": "RequestRef",
+      "Status": { "Id": 1, "Name": "Pending" },
+      "Location": { "Id": 1, "Name": "Narok" },
+      "Asset": [
+        { "Id": 1, "Name": "Pump" },
+        { "Id": 2, "Name": "Generator" }
+      ],
+      "Fault": [
+        { "Id": 1, "Name": "Faulty POS" },
+        { "Id": 2, "Name": "CPU Damage" }
+      ],
+      "WorkOrder": {
+        "Title": "POS and CPU",
+        "Description": "Repair the POS and CPU",
+        "CategoryOfWork": { "Id": 1, "Name": "Engineering" },
+        "Priority": "Low",
+        "AssignTeam": { "Id": 1, "Name": "Primary Team" },
+        "AssignAdditionalTeam": { "Id": 2, "Name": "Secondary Team" },
+        "TechnicianSignature": "True",
+        "Checklist": [
+          { "Id": 1, "Name": "POS Checklist" },
+          { "Id": 2, "Name": "CPU Checklist" }
+        ],
+        "AttachedFiles": [
+          { "Id": 1, "Name": "File 1" },
+          { "Id": 2, "Name": "File 2" }
+        ]
+      },
+      "CreatedBy": "Chris Smith",
+      "DateCreated": "18/10/2023"
+    },
+    {
+      "Id": 16,
+      "RequestRef": "RequestRef",
+      "Status": { "Id": 1, "Name": "Pending" },
+      "Location": { "Id": 1, "Name": "Narok" },
+      "Asset": [
+        { "Id": 1, "Name": "Pump" },
+        { "Id": 2, "Name": "Generator" }
+      ],
+      "Fault": [
+        { "Id": 1, "Name": "Faulty POS" },
+        { "Id": 2, "Name": "CPU Damage" }
+      ],
+      "WorkOrder": {
+        "Title": "POS and CPU",
+        "Description": "Repair the POS and CPU",
+        "CategoryOfWork": { "Id": 1, "Name": "Engineering" },
+        "Priority": "Low",
+        "AssignTeam": { "Id": 1, "Name": "Primary Team" },
+        "AssignAdditionalTeam": { "Id": 2, "Name": "Secondary Team" },
+        "TechnicianSignature": "True",
+        "Checklist": [
+          { "Id": 1, "Name": "POS Checklist" },
+          { "Id": 2, "Name": "CPU Checklist" }
+        ],
+        "AttachedFiles": [
+          { "Id": 1, "Name": "File 1" },
+          { "Id": 2, "Name": "File 2" }
+        ]
+      },
+      "CreatedBy": "Chris Smith",
+      "DateCreated": "18/10/2023"
+    },
+    {
+      "Id": 17,
+      "RequestRef": "RequestRef",
+      "Status": { "Id": 1, "Name": "Pending" },
+      "Location": { "Id": 1, "Name": "Narok" },
+      "Asset": [
+        { "Id": 1, "Name": "Pump" },
+        { "Id": 2, "Name": "Generator" }
+      ],
+      "Fault": [
+        { "Id": 1, "Name": "Faulty POS" },
+        { "Id": 2, "Name": "CPU Damage" }
+      ],
+      "WorkOrder": {
+        "Title": "POS and CPU",
+        "Description": "Repair the POS and CPU",
+        "CategoryOfWork": { "Id": 1, "Name": "Engineering" },
+        "Priority": "Low",
+        "AssignTeam": { "Id": 1, "Name": "Primary Team" },
+        "AssignAdditionalTeam": { "Id": 2, "Name": "Secondary Team" },
+        "TechnicianSignature": "True",
+        "Checklist": [
+          { "Id": 1, "Name": "POS Checklist" },
+          { "Id": 2, "Name": "CPU Checklist" }
+        ],
+        "AttachedFiles": [
+          { "Id": 1, "Name": "File 1" },
+          { "Id": 2, "Name": "File 2" }
+        ]
+      },
+      "CreatedBy": "Chris Smith",
+      "DateCreated": "18/10/2023"
+    },
+    {
+      "Id": 18,
+      "RequestRef": "RequestRef",
+      "Status": { "Id": 1, "Name": "Pending" },
+      "Location": { "Id": 1, "Name": "Narok" },
+      "Asset": [
+        { "Id": 1, "Name": "Pump" },
+        { "Id": 2, "Name": "Generator" }
+      ],
+      "Fault": [
+        { "Id": 1, "Name": "Faulty POS" },
+        { "Id": 2, "Name": "CPU Damage" }
+      ],
+      "WorkOrder": {
+        "Title": "POS and CPU",
+        "Description": "Repair the POS and CPU",
+        "CategoryOfWork": { "Id": 1, "Name": "Engineering" },
+        "Priority": "Low",
+        "AssignTeam": { "Id": 1, "Name": "Primary Team" },
+        "AssignAdditionalTeam": { "Id": 2, "Name": "Secondary Team" },
+        "TechnicianSignature": "True",
+        "Checklist": [
+          { "Id": 1, "Name": "POS Checklist" },
+          { "Id": 2, "Name": "CPU Checklist" }
+        ],
+        "AttachedFiles": [
+          { "Id": 1, "Name": "File 1" },
+          { "Id": 2, "Name": "File 2" }
+        ]
+      },
+      "CreatedBy": "Chris Smith",
+      "DateCreated": "18/10/2023"
+    },
+    {
+      "Id": 19,
+      "RequestRef": "RequestRef",
+      "Status": { "Id": 1, "Name": "Pending" },
+      "Location": { "Id": 1, "Name": "Narok" },
+      "Asset": [
+        { "Id": 1, "Name": "Pump" },
+        { "Id": 2, "Name": "Generator" }
+      ],
+      "Fault": [
+        { "Id": 1, "Name": "Faulty POS" },
+        { "Id": 2, "Name": "CPU Damage" }
+      ],
+      "WorkOrder": {
+        "Title": "POS and CPU",
+        "Description": "Repair the POS and CPU",
+        "CategoryOfWork": { "Id": 1, "Name": "Engineering" },
+        "Priority": "Low",
+        "AssignTeam": { "Id": 1, "Name": "Primary Team" },
+        "AssignAdditionalTeam": { "Id": 2, "Name": "Secondary Team" },
+        "TechnicianSignature": "True",
+        "Checklist": [
+          { "Id": 1, "Name": "POS Checklist" },
+          { "Id": 2, "Name": "CPU Checklist" }
+        ],
+        "AttachedFiles": [
+          { "Id": 1, "Name": "File 1" },
+          { "Id": 2, "Name": "File 2" }
+        ]
+      },
+      "CreatedBy": "Chris Smith",
+      "DateCreated": "18/10/2023"
+    },
+    {
+      "Id": 20,
+      "RequestRef": "RequestRef",
+      "Status": { "Id": 1, "Name": "Pending" },
+      "Location": { "Id": 1, "Name": "Narok" },
+      "Asset": [
+        { "Id": 1, "Name": "Pump" },
+        { "Id": 2, "Name": "Generator" }
+      ],
+      "Fault": [
+        { "Id": 1, "Name": "Faulty POS" },
+        { "Id": 2, "Name": "CPU Damage" }
+      ],
+      "WorkOrder": {
+        "Title": "POS and CPU",
+        "Description": "Repair the POS and CPU",
+        "CategoryOfWork": { "Id": 1, "Name": "Engineering" },
+        "Priority": "Low",
+        "AssignTeam": { "Id": 1, "Name": "Primary Team" },
+        "AssignAdditionalTeam": { "Id": 2, "Name": "Secondary Team" },
+        "TechnicianSignature": "True",
+        "Checklist": [
+          { "Id": 1, "Name": "POS Checklist" },
+          { "Id": 2, "Name": "CPU Checklist" }
+        ],
+        "AttachedFiles": [
+          { "Id": 1, "Name": "File 1" },
+          { "Id": 2, "Name": "File 2" }
+        ]
+      },
+      "CreatedBy": "Chris Smith",
+      "DateCreated": "18/10/2023"
+    }
+  ]
 ,
 
   "incidents": [

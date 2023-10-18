@@ -233,7 +233,7 @@
     },
     {
       "Id": 2,
-      "RequestRef": "RequestRef",
+      "RequestRef": "onther",
       "Status": { "Id": 1, "Name": "Pending" },
       "Location": { "Id": 1, "Name": "Narok" },
       "Asset": [

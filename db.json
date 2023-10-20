@@ -1,1455 +1,200 @@
 {
-    "workOrder": [
-      {
-        "id": 1,
-        "due": "6/13/2023",
-        "ref": "#6a0115",
-        "status": "open",
-        "description": "Australian encephalitis",
-        "priority": "medium",
-        "assigned": "Tomkin Persey",
-        "location": "Palhoça",
-        "asset": "pumps",
-        "updated": "5/9/2023",
-        "created": "5/9/2023"
-      },
-      {
-        "id": 2,
-        "due": "2/19/2023",
-        "ref": "#7359ad",
-        "status": "open",
-        "description": "Machine dependence NOS",
-        "priority": "medium",
-        "assigned": "Zaria Inseal",
-        "location": "Stockholm",
-        "asset": "pumps",
-        "updated": "1/13/2023",
-        "created": "2/7/2023"
-      },
-      {
-        "id": 3,
-        "due": "6/21/2023",
-        "ref": "#f969b6",
-        "status": "closed",
-        "description": "Cong abn uter preg-unsp",
-        "priority": "medium",
-        "assigned": "Hillel Castiglioni",
-        "location": "Huangling",
-        "asset": "pumps",
-        "updated": "9/21/2023",
-        "created": "1/1/2023"
-      },
-      {
-        "id": 4,
-        "due": "4/24/2023",
-        "ref": "#3ac27c",
-        "status": "pending",
-        "description": "2nd deg burn lower leg",
-        "priority": "medium",
-        "assigned": "Betsy Boustead",
-        "location": "Mino",
-        "asset": "pumps",
-        "updated": "4/17/2023",
-        "created": "2/19/2023"
-      },
-      {
-        "id": 5,
-        "due": "3/8/2023",
-        "ref": "#643fdb",
-        "status": "open",
-        "description": "Biliary atresia",
-        "priority": "medium",
-        "assigned": "Ade Londsdale",
-        "location": "Zhenzhushan",
-        "asset": "pumps",
-        "updated": "11/7/2022",
-        "created": "7/23/2023"
-      },
-      {
-        "id": 6,
-        "due": "11/30/2022",
-        "ref": "#8ada23",
-        "status": "closed",
-        "description": "Chronic parametritis",
-        "priority": "medium",
-        "assigned": "Kristen Woollons",
-        "location": "Yeysk",
-        "asset": "pumps",
-        "updated": "12/8/2022",
-        "created": "9/25/2023"
-      },
-      {
-        "id": 7,
-        "due": "5/18/2023",
-        "ref": "#26da88",
-        "status": "pending",
-        "description": "Ac embl internl jug vein",
-        "priority": "medium",
-        "assigned": "Jasen Kempshall",
-        "location": "Yantang",
-        "asset": "pumps",
-        "updated": "3/4/2023",
-        "created": "2/8/2023"
-      },
-      {
-        "id": 8,
-        "due": "3/19/2023",
-        "ref": "#a44502",
-        "status": "pending",
-        "description": "Triplets w fet loss-del",
-        "priority": "medium",
-        "assigned": "Magdalen Mieville",
-        "location": "Łapanów",
-        "asset": "pumps",
-        "updated": "7/8/2023",
-        "created": "5/8/2023"
-      },
-      {
-        "id": 9,
-        "due": "7/1/2023",
-        "ref": "#d69061",
-        "status": "closed",
-        "description": "Ch mgr wo ar wo nt wo st",
-        "priority": "medium",
-        "assigned": "Ingeborg Heineke",
-        "location": "Yelan’-Kolenovskiy",
-        "asset": "pumps",
-        "updated": "12/3/2022",
-        "created": "8/8/2023"
-      },
-      {
-        "id": 10,
-        "due": "10/26/2022",
-        "ref": "#4988b8",
-        "status": "pending",
-        "description": "Spasmodic torticollis",
-        "priority": "medium",
-        "assigned": "Hugo Viste",
-        "location": "Jorf",
-        "asset": "pumps",
-        "updated": "7/27/2023",
-        "created": "2/24/2023"
-      },
-      {
-        "id": 11,
-        "due": "5/17/2023",
-        "ref": "#f8faaf",
-        "status": "closed",
-        "description": "Derang post lat meniscus",
-        "priority": "medium",
-        "assigned": "Chic Dodding",
-        "location": "Baiyun",
-        "asset": "pumps",
-        "updated": "4/27/2023",
-        "created": "2/19/2023"
-      },
-      {
-        "id": 12,
-        "due": "11/26/2022",
-        "ref": "#74ee47",
-        "status": "open",
-        "description": "Liver lacerat, mod-open",
-        "priority": "medium",
-        "assigned": "Cole Dallow",
-        "location": "Penhascoso",
-        "asset": "pumps",
-        "updated": "9/20/2023",
-        "created": "5/27/2023"
-      },
-      {
-        "id": 13,
-        "due": "11/25/2022",
-        "ref": "#3ce757",
-        "status": "pending",
-        "description": "Fx humerus shaft-closed",
-        "priority": "medium",
-        "assigned": "Lyell Legen",
-        "location": "Ermida",
-        "asset": "pumps",
-        "updated": "12/26/2022",
-        "created": "1/30/2023"
-      },
-      {
-        "id": 14,
-        "due": "1/11/2023",
-        "ref": "#e64ea7",
-        "status": "open",
-        "description": "Unc behav neo adrenal",
-        "priority": "medium",
-        "assigned": "Emma Dronsfield",
-        "location": "Sakassou",
-        "asset": "pumps",
-        "updated": "1/26/2023",
-        "created": "11/10/2022"
-      },
-      {
-        "id": 15,
-        "due": "2/1/2023",
-        "ref": "#31c7c6",
-        "status": "pending",
-        "description": "Fx carpal bone NEC-open",
-        "priority": "medium",
-        "assigned": "Rockwell Selley",
-        "location": "Labuan",
-        "asset": "pumps",
-        "updated": "11/30/2022",
-        "created": "9/29/2023"
-      }
-    ],    
-        
-      "requests": [
+    "Trending": [
         {
-          "id": 1,
-          "RequestRef": "RequestRef1",
-          "Recurrence": "First Time",
-          "Description": "Pump Nozzle leaking from the pipe since Monday",
-          "Status": {
-            "StatusId": 1,
-            "Name": "Pending"
-          },
-          "Location": {
-            "LocationId": 1,
-            "Name": "Narok"
-          },
-          "Asset": [
-            {
-              "AssetId": 1,
-              "Name": "Pump"
-            },
-            {
-              "AssetId": 2,
-              "Name": "Generator"
-            }
-          ],
-          "Fault": [
-            {
-              "FaultId": 1,
-              "Name": "Faulty POS"
-            },
-            {
-              "FaultId": 2,
-              "Name": "CPU Damage"
-            }
-          ],
-          "WorkOrder": {
-            "Title": "POS and CPU",
-            "Description": "Repair the POS and CPU",
-            "CategoryOfWork": {
-              "id": 1,
-              "Name": "Engineering"
-            },
-            "Priority": "Low",
-            "AssignTeam": {
-              "id": 1,
-              "Name": "Primary Team"
-            },
-            "AssignAdditionalTeam": {
-              "id": 2,
-              "Name": "Secondary Team"
-            },
-            "TechnicianSignature": "True",
-            "Checklist": [
-              {
-                "ChecklistId": 1,
-                "Name": "POS Checklist"
-              },
-              {
-                "ChecklistId": 2,
-                "Name": "CPU Checklist"
-              }
-            ],
-            "AttachedFiles": [
-              {
-                "FileId": 1,
-                "Name": "File 1"
-              },
-              {
-                "FileId": 2,
-                "Name": "File 2"
-              }
-            ]
-          },
-          "CreatedBy": "Chris Smith",
-          "DateCreated": "18/10/2023"
+            "id" : 1,
+            "name": "giraff chair",
+            "image": "https://cdn.shopify.com/s/files/1/0083/7474/7221/products/04_a0aa788f-f8f9-4f41-bd75-e5dde65bf04a_385x500.jpg?v=1558437359",
+            "trending": "sale product",
+            "currentCost": "$12,000.00",
+            "previousCost": "$14,000.00"
         },
         {
-          "id": 2,
-          "RequestRef": "RequestRef2",
-          "Recurrence": "First Time",
-          "Description": "Pump Nozzle leaking from the pipe since Monday",
-          "Status": {
-            "StatusId": 2,
-            "Name": "Pending"
-          },
-          "Location": {
-            "LocationId": 2,
-            "Name": "Nairobi"
-          },
-          "Asset": [
-            {
-              "AssetId": 3,
-              "Name": "Fan"
-            },
-            {
-              "AssetId": 4,
-              "Name": "Laptop"
-            }
-          ],
-          "Fault": [
-            {
-              "FaultId": 3,
-              "Name": "Network Issue"
-            },
-            {
-              "FaultId": 4,
-              "Name": "Screen Crack"
-            }
-          ],
-          "WorkOrder": {
-            "Title": "Network and Screen",
-            "Description": "Fix network issue and replace the screen",
-            "CategoryOfWork": {
-              "id": 2,
-              "Name": "IT"
-            },
-            "Priority": "High",
-            "AssignTeam": {
-              "id": 3,
-              "Name": "IT Support"
-            },
-            "AssignAdditionalTeam": {
-              "id": 4,
-              "Name": "Hardware Team"
-            },
-            "TechnicianSignature": "False",
-            "Checklist": [
-              {
-                "ChecklistId": 3,
-                "Name": "Network Checklist"
-              },
-              {
-                "ChecklistId": 4,
-                "Name": "Screen Replacement Checklist"
-              }
-            ],
-            "AttachedFiles": [
-              {
-                "FileId": 3,
-                "Name": "Network_Logs.pdf"
-              },
-              {
-                "FileId": 4,
-                "Name": "Screen_Replacement_Guide.pdf"
-              }
-            ]
-          },
-          "CreatedBy": "John Doe",
-          "DateCreated": "19/10/2023"
+            "id" : 2,
+            "name": "giraff chair",
+            "image": "https://cdn.shopify.com/s/files/1/0083/7474/7221/products/07_83602417-8900-4adc-9805-21ea9370253d_385x500.jpg?v=1558437386",
+            "trending": "sale product",
+            "currentCost": "$14,000.00",
+            "previousCost": "$13,000.00"
         },
         {
-          "id": 3,
-          "RequestRef": "RequestRef3",
-          "Recurrence": "First Time",
-          "Description": "Pump Nozzle leaking from the pipe since Monday",
-          "Status": {
-            "StatusId": 3,
-            "Name": "In Progress"
-          },
-          "Location": {
-            "LocationId": 3,
-            "Name": "Mombasa"
-          },
-          "Asset": [
-            {
-              "AssetId": 5,
-              "Name": "Printer"
-            },
-            {
-              "AssetId": 6,
-              "Name": "Projector"
-            }
-          ],
-          "Fault": [
-            {
-              "FaultId": 5,
-              "Name": "Paper Jam"
-            },
-            {
-              "FaultId": 6,
-              "Name": "Blurry Image"
-            }
-          ],
-          "WorkOrder": {
-            "Title": "Printer and Projector",
-            "Description": "Clear paper jam and fix blurry image on projector",
-            "CategoryOfWork": {
-              "id": 3,
-              "Name": "Hardware"
-            },
-            "Priority": "Medium",
-            "AssignTeam": {
-              "id": 5,
-              "Name": "Hardware Support"
-            },
-            "AssignAdditionalTeam": {
-              "id": 6,
-              "Name": "AV Team"
-            },
-            "TechnicianSignature": "True",
-            "Checklist": [
-              {
-                "ChecklistId": 5,
-                "Name": "Printer Jam Checklist"
-              },
-              {
-                "ChecklistId": 6,
-                "Name": "Projector Image Quality Checklist"
-              }
-            ],
-            "AttachedFiles": [
-              {
-                "FileId": 5,
-                "Name": "Printer_Maintenance_Manual.pdf"
-              },
-              {
-                "FileId": 6,
-                "Name": "Projector_Calibration_Guide.pdf"
-              }
-            ]
-          },
-          "CreatedBy": "Alice Johnson",
-          "DateCreated": "20/10/2023"
+            "id" : 3,
+            "name": "giraff chair",
+            "image": "https://cdn.shopify.com/s/files/1/0083/7474/7221/products/12_389a199c-8b14-4720-8f85-dfb37cf5420a_385x500.jpg?v=1558437406",
+            "trending": "sale product",
+            "currentCost": "$10,000.00",
+            "previousCost": "$14,000.00"
         },
         {
-          "id": 4,
-          "RequestRef": "RequestRef4",
-          "Recurrence": "First Time",
-          "Description": "Pump Nozzle leaking from the pipe since Monday",
-          "Status": {
-            "StatusId": 4,
-            "Name": "Completed"
-          },
-          "Location": {
-            "LocationId": 4,
-            "Name": "Eldoret"
-          },
-          "Asset": [
-            {
-              "AssetId": 7,
-              "Name": "Lawn Mower"
-            },
-            {
-              "AssetId": 8,
-              "Name": "Leaf Blower"
-            }
-          ],
-          "Fault": [
-            {
-              "FaultId": 7,
-              "Name": "Won't Start"
-            },
-            {
-              "FaultId": 8,
-              "Name": "Noisy Operation"
-            }
-          ],
-          "WorkOrder": {
-            "Title": "Garden Equipment",
-            "Description": "Fix the lawn mower and reduce noise from the leaf blower",
-            "CategoryOfWork": {
-              "id": 4,
-              "Name": "Landscaping"
-            },
-            "Priority": "High",
-            "AssignTeam": {
-              "id": 7,
-              "Name": "Landscaping Crew"
-            },
-            "AssignAdditionalTeam": {
-              "id": 8,
-              "Name": "Noise Control Team"
-            },
-            "TechnicianSignature": "True",
-            "Checklist": [
-              {
-                "ChecklistId": 7,
-                "Name": "Lawn Mower Maintenance"
-              },
-              {
-                "ChecklistId": 8,
-                "Name": "Noise Reduction Checklist"
-              }
-            ],
-            "AttachedFiles": [
-              {
-                "FileId": 7,
-                "Name": "Lawn_Mower_Manual.pdf"
-              },
-              {
-                "FileId": 8,
-                "Name": "Noise_Reduction_Guide.pdf"
-              }
-            ]
-          },
-          "CreatedBy": "Michael Brown",
-          "DateCreated": "21/10/2023"
+            "id" : 4,
+            "name": "giraff chair",
+            "image": "https://cdn.shopify.com/s/files/1/0083/7474/7221/products/12_389a199c-8b14-4720-8f85-dfb37cf5420a_385x500.jpg?v=1558437406",
+            "trending": "sale product",
+            "currentCost": "$14,000.00",
+            "previousCost": "$10,000.00"
         },
         {
-          "id": 5,
-          "RequestRef": "RequestRef5",
-          "Recurrence": "First Time",
-          "Description": "Pump Nozzle leaking from the pipe since Monday",
-          "Status": {
-            "StatusId": 5,
-            "Name": "Pending"
-          },
-          "Location": {
-            "LocationId": 5,
-            "Name": "Kisumu"
-          },
-          "Asset": [
-            {
-              "AssetId": 9,
-              "Name": "Refrigerator"
-            },
-            {
-              "AssetId": 10,
-              "Name": "Oven"
-            }
-          ],
-          "Fault": [
-            {
-              "FaultId": 9,
-              "Name": "Not Cooling"
-            },
-            {
-              "FaultId": 10,
-              "Name": "Uneven Heating"
-            }
-          ],
-          "WorkOrder": {
-            "Title": "Kitchen Appliances",
-            "Description": "Repair the refrigerator cooling issue and fix uneven heating in the oven",
-            "CategoryOfWork": {
-              "id": 5,
-              "Name": "Kitchen Appliances"
-            },
-            "Priority": "Medium",
-            "AssignTeam": {
-              "id": 9,
-              "Name": "Appliance Repair Team"
-            },
-            "AssignAdditionalTeam": {
-              "id": 10,
-              "Name": "Oven Calibration Team"
-            },
-            "TechnicianSignature": "False",
-            "Checklist": [
-              {
-                "ChecklistId": 9,
-                "Name": "Refrigerator Troubleshooting"
-              },
-              {
-                "ChecklistId": 10,
-                "Name": "Oven Heating Calibration"
-              }
-            ],
-            "AttachedFiles": [
-              {
-                "FileId": 9,
-                "Name": "Refrigerator_User_Manual.pdf"
-              },
-              {
-                "FileId": 10,
-                "Name": "Oven_Calibration_Instructions.pdf"
-              }
-            ]
-          },
-          "CreatedBy": "Emily White",
-          "DateCreated": "22/10/2023"
+            "id" : 5,
+            "name": "giraff chair",
+            "image": "https://cdn.shopify.com/s/files/1/0083/7474/7221/products/12_389a199c-8b14-4720-8f85-dfb37cf5420a_385x500.jpg?v=1558437406",
+            "trending": "sale product",
+            "currentCost": "$12,000.00",
+            "previousCost": "$12,000.00"
         },
         {
-          "id": 6,
-          "RequestRef": "RequestRef6",
-          "Recurrence": "First Time",
-          "Description": "Pump Nozzle leaking from the pipe since Monday",
-          "Status": {
-            "StatusId": 6,
-            "Name": "In Progress"
-          },
-          "Location": {
-            "LocationId": 6,
-            "Name": "Mombasa"
-          },
-          "Asset": [
-            {
-              "AssetId": 11,
-              "Name": "Boat"
-            },
-            {
-              "AssetId": 12,
-              "Name": "Jet Ski"
-            }
-          ],
-          "Fault": [
-            {
-              "FaultId": 11,
-              "Name": "Engine Stalling"
-            },
-            {
-              "FaultId": 12,
-              "Name": "Overheating"
-            }
-          ],
-          "WorkOrder": {
-            "Title": "Marine Repairs",
-            "Description": "Fix engine stalling in the boat and address overheating issues in the jet ski",
-            "CategoryOfWork": {
-              "id": 6,
-              "Name": "Marine"
-            },
-            "Priority": "High",
-            "AssignTeam": {
-              "id": 11,
-              "Name": "Marine Engineers"
-            },
-            "AssignAdditionalTeam": {
-              "id": 12,
-              "Name": "Cooling System Experts"
-            },
-            "TechnicianSignature": "True",
-            "Checklist": [
-              {
-                "ChecklistId": 11,
-                "Name": "Boat Engine Troubleshooting"
-              },
-              {
-                "ChecklistId": 12,
-                "Name": "Jet Ski Cooling System Check"
-              }
-            ],
-            "AttachedFiles": [
-              {
-                "FileId": 11,
-                "Name": "Boat_Repair_Manual.pdf"
-              },
-              {
-                "FileId": 12,
-                "Name": "Jet_Ski_Cooling_Instructions.pdf"
-              }
-            ]
-          },
-          "CreatedBy": "Daniel Johnson",
-          "DateCreated": "23/10/2023"
+            "id" : 6,
+            "name": "giraff chair",
+            "image": "https://cdn.shopify.com/s/files/1/0083/7474/7221/products/14_e0b37b51-237b-420c-82f9-016cc180f858_grande.jpg?v=1558437390",
+            "trending": "sale product",
+            "currentCost": "$11,000.00",
+            "previousCost": "$12,000.00"
         },
         {
-          "id": 7,
-          "RequestRef": "RequestRef7",
-          "Recurrence": "First Time",
-          "Description": "Pump Nozzle leaking from the pipe since Monday",
-          "Status": {
-            "StatusId": 7,
-            "Name": "Completed"
-          },
-          "Location": {
-            "LocationId": 7,
-            "Name": "Nairobi"
-          },
-          "Asset": [
-            {
-              "AssetId": 13,
-              "Name": "Forklift"
-            },
-            {
-              "AssetId": 14,
-              "Name": "Crane"
-            }
-          ],
-          "Fault": [
-            {
-              "FaultId": 13,
-              "Name": "Hydraulic Leak"
-            },
-            {
-              "FaultId": 14,
-              "Name": "Crane Arm Jammed"
-            }
-          ],
-          "WorkOrder": {
-            "Title": "Heavy Machinery Repair",
-            "Description": "Fix hydraulic leak in the forklift and unjam the crane arm",
-            "CategoryOfWork": {
-              "id": 7,
-              "Name": "Heavy Machinery"
-            },
-            "Priority": "Medium",
-            "AssignTeam": {
-              "id": 13,
-              "Name": "Hydraulic Specialists"
-            },
-            "AssignAdditionalTeam": {
-              "id": 14,
-              "Name": "Crane Mechanics"
-            },
-            "TechnicianSignature": "True",
-            "Checklist": [
-              {
-                "ChecklistId": 13,
-                "Name": "Forklift Hydraulics Check"
-              },
-              {
-                "ChecklistId": 14,
-                "Name": "Crane Arm Repair Checklist"
-              }
-            ],
-            "AttachedFiles": [
-              {
-                "FileId": 13,
-                "Name": "Forklift_Hydraulics_Manual.pdf"
-              },
-              {
-                "FileId": 14,
-                "Name": "Crane_Repair_Guide.pdf"
-              }
-            ]
-          },
-          "CreatedBy": "Sarah Davis",
-          "DateCreated": "24/10/2023"
+            "id" : 7,
+            "name": "giraff chair",
+            "image": "https://cdn.shopify.com/s/files/1/0083/7474/7221/products/12_b3f0c4a7-d89d-47f5-8cc7-c19d8cec2094_grande.jpg?v=1558437406",
+            "trending": "sale product",
+            "currentCost": "$12,000.00",
+            "previousCost": "$11,000.00"
         },
         {
-          "id": 8,
-          "RequestRef": "RequestRef8",
-          "Recurrence": "First Time",
-          "Description": "Pump Nozzle leaking from the pipe since Monday",
-          "Status": {
-            "StatusId": 8,
-            "Name": "Pending"
-          },
-          "Location": {
-            "LocationId": 8,
-            "Name": "Kisii"
-          },
-          "Asset": [
-            {
-              "AssetId": 15,
-              "Name": "Refrigerated Truck"
-            },
-            {
-              "AssetId": 16,
-              "Name": "Freezer"
-            }
-          ],
-          "Fault": [
-            {
-              "FaultId": 15,
-              "Name": "Cooling System Failure"
-            },
-            {
-              "FaultId": 16,
-              "Name": "Frost Buildup"
-            }
-          ],
-          "WorkOrder": {
-            "Title": "Cold Storage Repairs",
-            "Description": "Repair the cooling system in the refrigerated truck and remove frost buildup in the freezer",
-            "CategoryOfWork": {
-              "id": 8,
-              "Name": "Cold Storage"
-            },
-            "Priority": "High",
-            "AssignTeam": {
-              "id": 15,
-              "Name": "Refrigeration Experts"
-            },
-            "AssignAdditionalTeam": {
-              "id": 16,
-              "Name": "Freezer Maintenance Team"
-            },
-            "TechnicianSignature": "False",
-            "Checklist": [
-              {
-                "ChecklistId": 15,
-                "Name": "Refrigerated Truck Cooling System"
-              },
-              {
-                "ChecklistId": 16,
-                "Name": "Freezer Frost Removal"
-              }
-            ],
-            "AttachedFiles": [
-              {
-                "FileId": 15,
-                "Name": "Truck_Cooling_Manual.pdf"
-              },
-              {
-                "FileId": 16,
-                "Name": "Freezer_Maintenance_Guide.pdf"
-              }
-            ]
-          },
-          "CreatedBy": "James Wilson",
-          "DateCreated": "25/10/2023"
+            "id" : 8,
+            "name": "giraff chair",
+            "image": "https://cdn.shopify.com/s/files/1/0083/7474/7221/products/10_247e9960-9f5e-4346-bd9d-2ef6176fed02_400x400.jpg?v=1558956762",
+            "trending": "sale product",
+            "currentCost": "$12,000.00",
+            "previousCost": "$16,000.00"
         },
         {
-          "id": 9,
-          "RequestRef": "RequestRef9",
-          "Recurrence": "First Time",
-          "Description": "Pump Nozzle leaking from the pipe since Monday",
-          "Status": {
-            "StatusId": 9,
-            "Name": "In Progress"
-          },
-          "Location": {
-            "LocationId": 9,
-            "Name": "Nairobi"
-          },
-          "Asset": [
-            {
-              "AssetId": 17,
-              "Name": "Elevator"
-            },
-            {
-              "AssetId": 18,
-              "Name": "Escalator"
-            }
-          ],
-          "Fault": [
-            {
-              "FaultId": 17,
-              "Name": "Stuck Between Floors"
-            },
-            {
-              "FaultId": 18,
-              "Name": "Slow Movement"
-            }
-          ],
-          "WorkOrder": {
-            "Title": "Vertical Transport Repairs",
-            "Description": "Unstuck the elevator and improve the speed of the escalator",
-            "CategoryOfWork": {
-              "id": 9,
-              "Name": "Vertical Transport"
-            },
-            "Priority": "Medium",
-            "AssignTeam": {
-              "id": 17,
-              "Name": "Elevator Rescue Team"
-            },
-            "AssignAdditionalTeam": {
-              "id": 18,
-              "Name": "Escalator Efficiency Team"
-            },
-            "TechnicianSignature": "True",
-            "Checklist": [
-              {
-                "ChecklistId": 17,
-                "Name": "Elevator Stuck Troubleshooting"
-              },
-              {
-                "ChecklistId": 18,
-                "Name": "Escalator Speed Optimization"
-              }
-            ],
-            "AttachedFiles": [
-              {
-                "FileId": 17,
-                "Name": "Elevator_Unstucking_Guide.pdf"
-              },
-              {
-                "FileId": 18,
-                "Name": "Escalator_Speed_Improvement.pdf"
-              }
-            ]
-          },
-          "CreatedBy": "Sophia Lee",
-          "DateCreated": "26/10/2023"
+            "id" : 9,
+            "name": "giraff chair",
+            "image": "https://cdn.shopify.com/s/files/1/0083/7474/7221/products/09_21f690a8-a95c-475f-b952-14b58ff056d7_grande.jpg?v=1558437349",
+            "trending": "sale product",
+            "currentCost": "$8,000.00",
+            "previousCost": "$12,000.00"
         },
         {
-          "Asset": [
-            {
-              "AssetId": 2,
-              "Name": "Asset category 2"
-            }
-          ],
-          "Location": {
-            "id": 3,
-            "Name": "Asset category 3"
-          },
-          "Fault": [
-            {
-              "FaultId": 1,
-              "Name": "Asset category 1"
-            }
-          ],
-          "Description": "warty",
-          "Recurrence": "Recurrent Fault",
-          "AttachedFiles": [],
-          "RequestRef": "RequestRef9",
-          "Status": {
-            "StatusId": 9,
-            "Name": "In Progress"
-          },
-          "WorkOrder": {
-            "Title": "Vertical Transport Repairs",
-            "Description": "Unstuck the elevator and improve the speed of the escalator",
-            "CategoryOfWork": {
-              "id": 9,
-              "Name": "Vertical Transport"
-            },
-            "Priority": "Medium",
-            "AssignTeam": {
-              "id": 17,
-              "Name": "Elevator Rescue Team"
-            },
-            "AssignAdditionalTeam": {
-              "id": 18,
-              "Name": "Escalator Efficiency Team"
-            },
-            "TechnicianSignature": "True",
-            "Checklist": [
-              {
-                "ChecklistId": 17,
-                "Name": "Elevator Stuck Troubleshooting"
-              },
-              {
-                "ChecklistId": 18,
-                "Name": "Escalator Speed Optimization"
-              }
-            ],
-            "AttachedFiles": [
-              {
-                "FileId": 17,
-                "Name": "Elevator_Unstucking_Guide.pdf"
-              },
-              {
-                "FileId": 18,
-                "Name": "Escalator_Speed_Improvement.pdf"
-              }
-            ],
-            "CreatedBy": "Sophia Lee",
-            "DateCreated": "26/10/2023"
-          },
-          "id": 10
+            "id" : 10,
+            "name": "giraff chair",
+            "image": "https://cdn.shopify.com/s/files/1/0083/7474/7221/products/07_83602417-8900-4adc-9805-21ea9370253d_grande.jpg?v=1558437386",
+            "trending": "sale product",
+            "currentCost": "$12,000.00",
+            "previousCost": "$12,000.00"
         },
         {
-          "Asset": [
-            {
-              "AssetId": 2,
-              "Name": "Asset category 2"
-            }
-          ],
-          "Location": {
-            "id": 3,
-            "Name": "Asset category 3"
-          },
-          "Fault": [
-            {
-              "FaultId": 5,
-              "Name": "Asset category 5"
-            }
-          ],
-          "Description": "wexrctvybu",
-          "Recurrence": "First Time Fault",
-          "AttachedFiles": [],
-          "RequestRef": "RequestRef9",
-          "Status": {
-            "StatusId": 9,
-            "Name": "In Progress"
-          },
-          "WorkOrder": {
-            "Title": "Vertical Transport Repairs",
-            "Description": "Unstuck the elevator and improve the speed of the escalator",
-            "CategoryOfWork": {
-              "id": 9,
-              "Name": "Vertical Transport"
-            },
-            "Priority": "Medium",
-            "AssignTeam": {
-              "id": 17,
-              "Name": "Elevator Rescue Team"
-            },
-            "AssignAdditionalTeam": {
-              "id": 18,
-              "Name": "Escalator Efficiency Team"
-            },
-            "TechnicianSignature": "True",
-            "Checklist": [
-              {
-                "ChecklistId": 17,
-                "Name": "Elevator Stuck Troubleshooting"
-              },
-              {
-                "ChecklistId": 18,
-                "Name": "Escalator Speed Optimization"
-              }
-            ],
-            "AttachedFiles": [
-              {
-                "FileId": 17,
-                "Name": "Elevator_Unstucking_Guide.pdf"
-              },
-              {
-                "FileId": 18,
-                "Name": "Escalator_Speed_Improvement.pdf"
-              }
-            ],
-            "CreatedBy": "Sophia Lee",
-            "DateCreated": "26/10/2023"
-          },
-          "id": 11
+            "id" : 11,
+            "name": "giraff chair",
+            "image": "https://cdn.shopify.com/s/files/1/0083/7474/7221/products/13_3500fcc9-e08c-4640-a778-04f6d32a2bf4_grande.jpg?v=1558437359",
+            "trending": "sale product",
+            "currentCost": "$10,000.00",
+            "previousCost": "$12,000.00"
+        },
+        {
+            "id" : 12,
+            "name": "giraff chair",
+            "image": "https://cdn.shopify.com/s/files/1/0083/7474/7221/products/17_fec482c9-8033-4928-a016-fa80b4a92f1b_grande.jpg?v=1558956762",
+            "trending": "sale product",
+            "currentCost": "$12,000.00",
+            "previousCost": "$12,000.00"
         }
-    
-      ],
-    
-      "incidents": [
+    ],
+
+    "Special_Products" : [
         {
-          "id": 1,
-          "reference": "ACJ3123",
-          "location": "Gigiri",
-          "vendor": "Nexgen",
-          "date created": "03/06/2023",
-          "description": "Leaking Pipes",
-          "status": "Closed"
+            "id" : 1,
+            "name": "giraff chair",
+            "image": "https://cdn.shopify.com/s/files/1/0083/7474/7221/products/01_2b7fcfec-f7b8-4c86-9f1b-4594887d4d41_385x500.jpg?v=1558437344",
+            "trending": "sale product",
+            "currentCost": "$8,000.00",
+            "previousCost": "$12,000.00"
         },
         {
-          "id": 2,
-          "reference": "ACJ3123",
-          "location": "Gigiri",
-          "vendor": "Nexgen",
-          "date created": "03/06/2023",
-          "description": "Leaking Pipes",
-          "status": "Closed"
+            "id" : 2,
+            "name": "giraff chair",
+            "image": "https://cdn.shopify.com/s/files/1/0083/7474/7221/products/02_daf4e579-9713-4e05-8cf8-e370849fef4d_385x500.jpg?v=1558437349",
+            "trending": "sale product",
+            "currentCost": "$12,000.00",
+            "previousCost": "$12,000.00"
         },
         {
-          "id": 3,
-          "reference": "ACJ3123",
-          "location": "Gigiri",
-          "vendor": "Nexgen",
-          "date created": "03/06/2023",
-          "description": "Leaking Pipes",
-          "status": "Open"
+            "id" : 3,
+            "name": "giraff chair",
+            "image": "https://cdn.shopify.com/s/files/1/0083/7474/7221/products/04_a0aa788f-f8f9-4f41-bd75-e5dde65bf04a_385x500.jpg?v=1558437359",
+            "trending": "sale product",
+            "currentCost": "$10,000.00",
+            "previousCost": "$12,000.00"
         },
         {
-          "id": 4,
-          "reference": "ACJ3123",
-          "location": "Gigiri",
-          "vendor": "Nexgen",
-          "date created": "03/06/2023",
-          "description": "Leaking Pipes",
-          "status": "Ongoing"
-        },
-        {
-          "id": 5,
-          "reference": "ACJ3123",
-          "location": "Gigiri",
-          "vendor": "Nexgen",
-          "date created": "03/06/2023",
-          "description": "Leaking Pipes",
-          "status": "Ongoing"
-        },
-        {
-          "id": 6,
-          "reference": "ACJ3123",
-          "location": "Gigiri",
-          "vendor": "Nexgen",
-          "date created": "03/06/2023",
-          "description": "Leaking Pipes",
-          "status": "Open"
-        },
-        {
-          "id": 7,
-          "reference": "ACJ3123",
-          "location": "Gigiri",
-          "vendor": "Nexgen",
-          "date created": "03/06/2023",
-          "description": "Leaking Pipes",
-          "status": "Open"
-        },
-        {
-          "id": 8,
-          "reference": "ACJ3123",
-          "location": "Gigiri",
-          "vendor": "Nexgen",
-          "date created": "03/06/2023",
-          "description": "Leaking Pipes",
-          "status": "Closed"
-        },
-        {
-          "id": 9,
-          "reference": "ACJ3123",
-          "location": "Gigiri",
-          "vendor": "Nexgen",
-          "date created": "03/06/2023",
-          "description": "Leaking Pipes",
-          "status": "Closed"
-        },
-        {
-          "id": 10,
-          "reference": "ACJ3123",
-          "location": "Gigiri",
-          "vendor": "Nexgen",
-          "date created": "03/06/2023",
-          "description": "Leaking Pipes",
-          "status": "Closed"
-        },
-        {
-          "id": 11,
-          "reference": "ACJ3123",
-          "location": "Gigiri",
-          "vendor": "Nexgen",
-          "date created": "03/06/2023",
-          "description": "Leaking Pipes",
-          "status": "Open"
-        },
-        {
-          "id": 12,
-          "reference": "ACJ3123",
-          "location": "Gigiri",
-          "vendor": "Nexgen",
-          "date created": "03/06/2023",
-          "description": "Leaking Pipes",
-          "status": "Open"
-        },
-        {
-          "id": 13,
-          "reference": "ACJ3123",
-          "location": "Gigiri",
-          "vendor": "Nexgen",
-          "date created": "03/06/2023",
-          "description": "Leaking Pipes",
-          "status": "Open"
+            "id" : 4,
+            "name": "giraff chair",
+            "image": "https://cdn.shopify.com/s/files/1/0083/7474/7221/products/06_43cbbf47-81d5-4c46-9713-2d1e0e072558_385x500.jpg?v=1558956926",
+            "trending": "sale product",
+            "currentCost": "$12,000.00",
+            "previousCost": "$12,000.00"
         }
-      ],
-    
-      "reminders": [
+    ],
+
+    "latestNews" : [
+       
+  
         {
             "id": 1,
-            "reference": "Broken Pump Valve",
-            "location": "Rubis Langata Road",
-            "description": "Pump A valve disintegrated and needs replacement",
-            "status": "New"
+            "title": "now we are certified a website",
+            "category": "furniture",
+            "description": "Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchange",
+            "imagePost": "https://images.pexels.com/photos/13166647/pexels-photo-13166647.jpeg?auto=compress&cs=tinysrgb&w=1200&lazy=load",
+            "createdAt": "May 21, 2019"
         },
+        {
+            "id" : 2,
+            "title": "now we are certified a website",
+            "category": "furniture",
+            "description": "Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchange",
+            "imagePost": "https://images.pexels.com/photos/2647714/pexels-photo-2647714.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "createdAt": "May 21, 2019"
+        },
+        {
+            "id" : 3,
+            "title": "now we are certified a website",
+            "category": "furniture",
+            "description": "Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchange",
+            "imagePost": "https://images.pexels.com/photos/2082092/pexels-photo-2082092.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "createdAt": "May 21, 2019"
+        },
+        {
+            "id" : 4,
+            "title": "now we are certified a website",
+            "category": "furniture",
+            "description": "Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchange",
+            "imagePost": "https://images.pexels.com/photos/3049121/pexels-photo-3049121.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "createdAt": "May 21, 2019"
+        },
+        {
+            "id" : 5,
+            "title": "now we are certified a website",
+            "category": "furniture",
+            "description": "Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchange",
+            "imagePost": "https://images.pexels.com/photos/3356416/pexels-photo-3356416.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "createdAt": "May 21, 2019"
+        }
+    ],
+
+    "shoppingCart" : [
+        {
+            "id": 1,
+            "title": "now we are certified a website",
+            "category": "furniture",
+            "description": "Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchange",
+            "imagePost": "https://images.pexels.com/photos/13166647/pexels-photo-13166647.jpeg?auto=compress&cs=tinysrgb&w=1200&lazy=load",
+            "createdAt": "May 21, 2019"
+        },
+
         {
             "id": 2,
-            "reference": "Leaking Pipe",
-            "location": "Rubis Capital Centre",
-            "description": "Pump A valve disintegrated and needs replacement",
-            "status": "Complete"
-        },
-        {
-            "id": 3,
-            "reference": "Tank Maintenance",
-            "location": "Rubis Karen",
-            "description": "Technician requested for Metal Screws Grade 1",
-            "status": "Ongoing"
+            "title": "now we are certified a website",
+            "category": "furniture",
+            "description": "Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchange",
+            "imagePost": "https://images.pexels.com/photos/13166647/pexels-photo-13166647.jpeg?auto=compress&cs=tinysrgb&w=1200&lazy=load",
+            "createdAt": "May 21, 2019"
         }
-      ],
-    
-      "OnotherRequest": [
-       {
-      "Id": 1,
-      "RequestRef": "RequestRef1",
-      "Status": { "StatusId": 1, "Name": "Pending" },
-      "Location": { "LocationId": 1, "Name": "Narok" },
-      "Asset": [
-        { "AssetId": 1, "Name": "Pump" },
-        { "AssetId": 2, "Name": "Generator" }
-      ],
-      "Fault": [
-        { "FaultId": 1, "Name": "Faulty POS" },
-        { "FaultId": 2, "Name": "CPU Damage" }
-      ],
-      "WorkOrder": {
-        "Title": "POS and CPU",
-        "Description": "Repair the POS and CPU",
-        "CategoryOfWork": { "Id": 1, "Name": "Engineering" },
-        "Priority": "Low",
-        "AssignTeam": { "Id": 1, "Name": "Primary Team" },
-        "AssignAdditionalTeam": { "Id": 2, "Name": "Secondary Team" },
-        "TechnicianSignature": "True",
-        "Checklist": [
-          { "ChecklistId": 1, "Name": "POS Checklist" },
-          { "ChecklistId": 2, "Name": "CPU Checklist" }
-        ],
-        "AttachedFiles": [
-          { "FileId": 1, "Name": "File 1" },
-          { "FileId": 2, "Name": "File 2" }
-        ]
-      },
-      "CreatedBy": "Chris Smith",
-      "DateCreated": "18/10/2023"
-    }
-    ,
-    
-      {
-      "Id": 2,
-      "RequestRef": "RequestRef2",
-      "Status": { "StatusId": 2, "Name": "Pending" },
-      "Location": { "LocationId": 2, "Name": "Nairobi" },
-      "Asset": [
-        { "AssetId": 3, "Name": "Fan" },
-        { "AssetId": 4, "Name": "Laptop" }
-      ],
-      "Fault": [
-        { "FaultId": 3, "Name": "Network Issue" },
-        { "FaultId": 4, "Name": "Screen Crack" }
-      ],
-      "WorkOrder": {
-        "Title": "Network and Screen",
-        "Description": "Fix network issue and replace the screen",
-        "CategoryOfWork": { "Id": 2, "Name": "IT" },
-        "Priority": "High",
-        "AssignTeam": { "Id": 3, "Name": "IT Support" },
-        "AssignAdditionalTeam": { "Id": 4, "Name": "Hardware Team" },
-        "TechnicianSignature": "False",
-        "Checklist": [
-          { "ChecklistId": 3, "Name": "Network Checklist" },
-          { "ChecklistId": 4, "Name": "Screen Replacement Checklist" }
-        ],
-        "AttachedFiles": [
-          { "FileId": 3, "Name": "Network_Logs.pdf" },
-          { "FileId": 4, "Name": "Screen_Replacement_Guide.pdf" }
-        ]
-      },
-      "CreatedBy": "John Doe",
-      "DateCreated": "19/10/2023"
-    },
-      {
-      "Id": 3,
-      "RequestRef": "RequestRef3",
-      "Status": { "StatusId": 3, "Name": "In Progress" },
-      "Location": { "LocationId": 3, "Name": "Mombasa" },
-      "Asset": [
-        { "AssetId": 5, "Name": "Printer" },
-        { "AssetId": 6, "Name": "Projector" }
-      ],
-      "Fault": [
-        { "FaultId": 5, "Name": "Paper Jam" },
-        { "FaultId": 6, "Name": "Blurry Image" }
-      ],
-      "WorkOrder": {
-        "Title": "Printer and Projector",
-        "Description": "Clear paper jam and fix blurry image on projector",
-        "CategoryOfWork": { "Id": 3, "Name": "Hardware" },
-        "Priority": "Medium",
-        "AssignTeam": { "Id": 5, "Name": "Hardware Support" },
-        "AssignAdditionalTeam": { "Id": 6, "Name": "AV Team" },
-        "TechnicianSignature": "True",
-        "Checklist": [
-          { "ChecklistId": 5, "Name": "Printer Jam Checklist" },
-          { "ChecklistId": 6, "Name": "Projector Image Quality Checklist" }
-        ],
-        "AttachedFiles": [
-          { "FileId": 5, "Name": "Printer_Maintenance_Manual.pdf" },
-          { "FileId": 6, "Name": "Projector_Calibration_Guide.pdf" }
-        ]
-      },
-      "CreatedBy": "Alice Johnson",
-      "DateCreated": "20/10/2023"
-    }
-    ,
-      {
-      "Id": 4,
-      "RequestRef": "RequestRef4",
-      "Status": { "StatusId": 4, "Name": "Completed" },
-      "Location": { "LocationId": 4, "Name": "Eldoret" },
-      "Asset": [
-        { "AssetId": 7, "Name": "Lawn Mower" },
-        { "AssetId": 8, "Name": "Leaf Blower" }
-      ],
-      "Fault": [
-        { "FaultId": 7, "Name": "Won't Start" },
-        { "FaultId": 8, "Name": "Noisy Operation" }
-      ],
-      "WorkOrder": {
-        "Title": "Garden Equipment",
-        "Description": "Fix the lawn mower and reduce noise from the leaf blower",
-        "CategoryOfWork": { "Id": 4, "Name": "Landscaping" },
-        "Priority": "High",
-        "AssignTeam": { "Id": 7, "Name": "Landscaping Crew" },
-        "AssignAdditionalTeam": { "Id": 8, "Name": "Noise Control Team" },
-        "TechnicianSignature": "True",
-        "Checklist": [
-          { "ChecklistId": 7, "Name": "Lawn Mower Maintenance" },
-          { "ChecklistId": 8, "Name": "Noise Reduction Checklist" }
-        ],
-        "AttachedFiles": [
-          { "FileId": 7, "Name": "Lawn_Mower_Manual.pdf" },
-          { "FileId": 8, "Name": "Noise_Reduction_Guide.pdf" }
-        ]
-      },
-      "CreatedBy": "Michael Brown",
-      "DateCreated": "21/10/2023"
-    }
-    ,
-      {
-      "Id": 5,
-      "RequestRef": "RequestRef5",
-      "Status": { "StatusId": 5, "Name": "Pending" },
-      "Location": { "LocationId": 5, "Name": "Kisumu" },
-      "Asset": [
-        { "AssetId": 9, "Name": "Refrigerator" },
-        { "AssetId": 10, "Name": "Oven" }
-      ],
-      "Fault": [
-        { "FaultId": 9, "Name": "Not Cooling" },
-        { "FaultId": 10, "Name": "Uneven Heating" }
-      ],
-      "WorkOrder": {
-        "Title": "Kitchen Appliances",
-        "Description": "Repair the refrigerator cooling issue and fix uneven heating in the oven",
-        "CategoryOfWork": { "Id": 5, "Name": "Kitchen Appliances" },
-        "Priority": "Medium",
-        "AssignTeam": { "Id": 9, "Name": "Appliance Repair Team" },
-        "AssignAdditionalTeam": { "Id": 10, "Name": "Oven Calibration Team" },
-        "TechnicianSignature": "False",
-        "Checklist": [
-          { "ChecklistId": 9, "Name": "Refrigerator Troubleshooting" },
-          { "ChecklistId": 10, "Name": "Oven Heating Calibration" }
-        ],
-        "AttachedFiles": [
-          { "FileId": 9, "Name": "Refrigerator_User_Manual.pdf" },
-          { "FileId": 10, "Name": "Oven_Calibration_Instructions.pdf" }
-        ]
-      },
-      "CreatedBy": "Emily White",
-      "DateCreated": "22/10/2023"
-    }
-    ,
-      {
-      "Id": 6,
-      "RequestRef": "RequestRef6",
-      "Status": { "StatusId": 6, "Name": "In Progress" },
-      "Location": { "LocationId": 6, "Name": "Mombasa" },
-      "Asset": [
-        { "AssetId": 11, "Name": "Boat" },
-        { "AssetId": 12, "Name": "Jet Ski" }
-      ],
-      "Fault": [
-        { "FaultId": 11, "Name": "Engine Stalling" },
-        { "FaultId": 12, "Name": "Overheating" }
-      ],
-      "WorkOrder": {
-        "Title": "Marine Repairs",
-        "Description": "Fix engine stalling in the boat and address overheating issues in the jet ski",
-        "CategoryOfWork": { "Id": 6, "Name": "Marine" },
-        "Priority": "High",
-        "AssignTeam": { "Id": 11, "Name": "Marine Engineers" },
-        "AssignAdditionalTeam": { "Id": 12, "Name": "Cooling System Experts" },
-        "TechnicianSignature": "True",
-        "Checklist": [
-          { "ChecklistId": 11, "Name": "Boat Engine Troubleshooting" },
-          { "ChecklistId": 12, "Name": "Jet Ski Cooling System Check" }
-        ],
-        "AttachedFiles": [
-          { "FileId": 11, "Name": "Boat_Repair_Manual.pdf" },
-          { "FileId": 12, "Name": "Jet_Ski_Cooling_Instructions.pdf" }
-        ]
-      },
-      "CreatedBy": "Daniel Johnson",
-      "DateCreated": "23/10/2023"
-    }
-    ,
-      {
-      "Id": 7,
-      "RequestRef": "RequestRef7",
-      "Status": { "StatusId": 7, "Name": "Completed" },
-      "Location": { "LocationId": 7, "Name": "Nairobi" },
-      "Asset": [
-        { "AssetId": 13, "Name": "Forklift" },
-        { "AssetId": 14, "Name": "Crane" }
-      ],
-      "Fault": [
-        { "FaultId": 13, "Name": "Hydraulic Leak" },
-        { "FaultId": 14, "Name": "Crane Arm Jammed" }
-      ],
-      "WorkOrder": {
-        "Title": "Heavy Machinery Repair",
-        "Description": "Fix hydraulic leak in the forklift and unjam the crane arm",
-        "CategoryOfWork": { "Id": 7, "Name": "Heavy Machinery" },
-        "Priority": "Medium",
-        "AssignTeam": { "Id": 13, "Name": "Hydraulic Specialists" },
-        "AssignAdditionalTeam": { "Id": 14, "Name": "Crane Mechanics" },
-        "TechnicianSignature": "True",
-        "Checklist": [
-          { "ChecklistId": 13, "Name": "Forklift Hydraulics Check" },
-          { "ChecklistId": 14, "Name": "Crane Arm Repair Checklist" }
-        ],
-        "AttachedFiles": [
-          { "FileId": 13, "Name": "Forklift_Hydraulics_Manual.pdf" },
-          { "FileId": 14, "Name": "Crane_Repair_Guide.pdf" }
-        ]
-      },
-      "CreatedBy": "Sarah Davis",
-      "DateCreated": "24/10/2023"
-    }
-    ,
-      {
-      "Id": 8,
-      "RequestRef": "RequestRef8",
-      "Status": { "StatusId": 8, "Name": "Pending" },
-      "Location": { "LocationId": 8, "Name": "Kisii" },
-      "Asset": [
-        { "AssetId": 15, "Name": "Refrigerated Truck" },
-        { "AssetId": 16, "Name": "Freezer" }
-      ],
-      "Fault": [
-        { "FaultId": 15, "Name": "Cooling System Failure" },
-        { "FaultId": 16, "Name": "Frost Buildup" }
-      ],
-      "WorkOrder": {
-        "Title": "Cold Storage Repairs",
-        "Description": "Repair the cooling system in the refrigerated truck and remove frost buildup in the freezer",
-        "CategoryOfWork": { "Id": 8, "Name": "Cold Storage" },
-        "Priority": "High",
-        "AssignTeam": { "Id": 15, "Name": "Refrigeration Experts" },
-        "AssignAdditionalTeam": { "Id": 16, "Name": "Freezer Maintenance Team" },
-        "TechnicianSignature": "False",
-        "Checklist": [
-          { "ChecklistId": 15, "Name": "Refrigerated Truck Cooling System" },
-          { "ChecklistId": 16, "Name": "Freezer Frost Removal" }
-        ],
-        "AttachedFiles": [
-          { "FileId": 15, "Name": "Truck_Cooling_Manual.pdf" },
-          { "FileId": 16, "Name": "Freezer_Maintenance_Guide.pdf" }
-        ]
-      },
-      "CreatedBy": "James Wilson",
-      "DateCreated": "25/10/2023"
-    }
-    ,{
-      "Id": 9,
-      "RequestRef": "RequestRef9",
-      "Status": { "StatusId": 9, "Name": "In Progress" },
-      "Location": { "LocationId": 9, "Name": "Nairobi" },
-      "Asset": [
-        { "AssetId": 17, "Name": "Elevator" },
-        { "AssetId": 18, "Name": "Escalator" }
-      ],
-      "Fault": [
-        { "FaultId": 17, "Name": "Stuck Between Floors" },
-        { "FaultId": 18, "Name": "Slow Movement" }
-      ],
-      "WorkOrder": {
-        "Title": "Vertical Transport Repairs",
-        "Description": "Unstuck the elevator and improve the speed of the escalator",
-        "CategoryOfWork": { "Id": 9, "Name": "Vertical Transport" },
-        "Priority": "Medium",
-        "AssignTeam": { "Id": 17, "Name": "Elevator Rescue Team" },
-        "AssignAdditionalTeam": { "Id": 18, "Name": "Escalator Efficiency Team" },
-        "TechnicianSignature": "True",
-        "Checklist": [
-          { "ChecklistId": 17, "Name": "Elevator Stuck Troubleshooting" },
-          { "ChecklistId": 18, "Name": "Escalator Speed Optimization" }
-        ],
-        "AttachedFiles": [
-          { "FileId": 17, "Name": "Elevator_Unstucking_Guide.pdf" },
-          { "FileId": 18, "Name": "Escalator_Speed_Improvement.pdf" }
-        ]
-      },
-      "CreatedBy": "Sophia Lee",
-      "DateCreated": "26/10/2023"
-    }
-      ],
-    }
-    
+    ]
+}

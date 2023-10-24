@@ -98,6 +98,15 @@
     }
   ],
 
+  "Parts": [
+     {
+      "id": 1,
+      "part": "part A",
+      "quantity": 3,
+      "amount": "321,000"
+     }
+  ],
+
   "Special_Products": [
     {
       "id": 1,

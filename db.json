@@ -1297,5 +1297,28 @@
       "DueDate": "2023-01-05",
       "ModifiedDate": "2023-06-25"
     }
+  ],
+  "reminders": [
+    {
+        "id": 1,
+        "reference": "Broken Pump Valve",
+        "location": "Rubis Langata Road",
+        "description": "Pump A valve disintegrated and needs replacement",
+        "status": "New"
+    },
+    {
+        "id": 2,
+        "reference": "Leaking Pipe",
+        "location": "Rubis Capital Centre",
+        "description": "Pump A valve disintegrated and needs replacement",
+        "status": "Complete"
+    },
+    {
+        "id": 3,
+        "reference": "Tank Maintenance",
+        "location": "Rubis Karen",
+        "description": "Technician requested for Metal Screws Grade 1",
+        "status": "Ongoing"
+    }
   ]
 }

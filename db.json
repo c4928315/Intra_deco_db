@@ -1320,18 +1320,19 @@
         "description": "Technician requested for Metal Screws Grade 1",
         "status": "Ongoing"
     }
-  ]
   ],
   "users": [
     {
         "id": 1,
         "username": "Developer@alpha",
-        "password": "abc123"
+        "password": "abc123",
+        "token": "r15RAiO2WlxXquM58CqCl0bhhCymzqViWbpLcKYQLLtodZPTu3AM268rzbsCM96v"
     },
     {
         "id": 2,
         "username": "Developer@beta",
-        "password": "def456"
+        "password": "def456",
+        "token": "dt9LG45ifv28sGjYx0i1GJejJfBep2C995RFdAVHPjAwUofBakHX6FZDerjqw5KK"
     }
   ]
 }

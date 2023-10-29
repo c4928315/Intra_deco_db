@@ -1321,4 +1321,17 @@
         "status": "Ongoing"
     }
   ]
+  ],
+  "users": [
+    {
+        "id": 1,
+        "username": "Developer@alpha",
+        "password": "abc123"
+    },
+    {
+        "id": 2,
+        "username": "Developer@beta",
+        "password": "def456"
+    }
+  ]
 }

@@ -896,10 +896,12 @@
       "TicketStage": { "StageId": 1, "StageName": "Open" },
       "TicketStatus": { "StatusId": 1, "StatusName": "Pending" },
       "TicketPriority": { "TicketPriorityId": 1, "TicketPriorityName": "High" },
-      "TicketChecklistForms": {
+      "TicketChecklistForms": [
+        {
         "FormsAndSectionsId": 1,
         "FormsAndSectionsName": "Form 1"
-      },
+      }
+      ],
       "TicketAssets": [
         { "AssetId": 1, "AssetName": "Asset 1" },
         { "AssetId": 2, "AssetName": "Asset 2" }
@@ -932,10 +934,12 @@
         "TicketPriorityId": 2,
         "TicketPriorityName": "Medium"
       },
-      "TicketChecklistForms": {
+      "TicketChecklistForms": [
+        {
         "FormsAndSectionsId": 2,
         "FormsAndSectionsName": "Form 2"
-      },
+      }
+      ],
       "TicketAssets": [
         { "AssetId": 3, "AssetName": "Asset 3" },
         { "AssetId": 4, "AssetName": "Asset 4" }
@@ -965,10 +969,12 @@
       "TicketStage": { "StageId": 3, "StageName": "Scheduled" },
       "TicketStatus": { "StatusId": 3, "StatusName": "In Progress" },
       "TicketPriority": { "TicketPriorityId": 3, "TicketPriorityName": "Low" },
-      "TicketChecklistForms": {
+      "TicketChecklistForms": [
+        {
         "FormsAndSectionsId": 3,
         "FormsAndSectionsName": "Form 3"
-      },
+      }
+      ],
       "TicketAssets": [
         { "AssetId": 5, "AssetName": "Asset 5" },
         { "AssetId": 6, "AssetName": "Asset 6" }
@@ -1001,10 +1007,12 @@
         "TicketPriorityId": 4,
         "TicketPriorityName": "Medium"
       },
-      "TicketChecklistForms": {
+      "TicketChecklistForms": [
+        {
         "FormsAndSectionsId": 4,
         "FormsAndSectionsName": "Form 4"
-      },
+      }
+      ],
       "TicketAssets": [
         { "AssetId": 7, "AssetName": "Asset 7" },
         { "AssetId": 8, "AssetName": "Asset 8" }
@@ -1034,10 +1042,12 @@
       "TicketStage": { "StageId": 5, "StageName": "In Progress" },
       "TicketStatus": { "StatusId": 5, "StatusName": "Open" },
       "TicketPriority": { "TicketPriorityId": 5, "TicketPriorityName": "Low" },
-      "TicketChecklistForms": {
+      "TicketChecklistForms": [
+        {
         "FormsAndSectionsId": 5,
         "FormsAndSectionsName": "Form 5"
-      },
+      }
+      ],
       "TicketAssets": [
         { "AssetId": 9, "AssetName": "Asset 9" },
         { "AssetId": 10, "AssetName": "Asset 10" }
@@ -1070,10 +1080,12 @@
       "TicketStage": { "StageId": 6, "StageName": "Scheduled" },
       "TicketStatus": { "StatusId": 6, "StatusName": "Open" },
       "TicketPriority": { "TicketPriorityId": 6, "TicketPriorityName": "Low" },
-      "TicketChecklistForms": {
+      "TicketChecklistForms": [
+        {
         "FormsAndSectionsId": 6,
         "FormsAndSectionsName": "Form 6"
-      },
+      }
+      ],
       "TicketAssets": [
         { "AssetId": 11, "AssetName": "Asset 11" },
         { "AssetId": 12, "AssetName": "Asset 12" }
@@ -1103,10 +1115,12 @@
       "TicketStage": { "StageId": 7, "StageName": "Scheduled" },
       "TicketStatus": { "StatusId": 7, "StatusName": "Open" },
       "TicketPriority": { "TicketPriorityId": 7, "TicketPriorityName": "Low" },
-      "TicketChecklistForms": {
+      "TicketChecklistForms": [
+        {
         "FormsAndSectionsId": 7,
         "FormsAndSectionsName": "Form 7"
-      },
+      }
+      ],
       "TicketAssets": [
         { "AssetId": 13, "AssetName": "Asset 13" },
         { "AssetId": 14, "AssetName": "Asset 14" }
@@ -1136,10 +1150,12 @@
       "TicketStage": { "StageId": 8, "StageName": "In Progress" },
       "TicketStatus": { "StatusId": 8, "StatusName": "Open" },
       "TicketPriority": { "TicketPriorityId": 8, "TicketPriorityName": "High" },
-      "TicketChecklistForms": {
+      "TicketChecklistForms": [
+        {
         "FormsAndSectionsId": 8,
         "FormsAndSectionsName": "Form 8"
-      },
+      }
+      ],
       "TicketAssets": [
         { "AssetId": 15, "AssetName": "Asset 15" },
         { "AssetId": 16, "AssetName": "Asset 16" }
@@ -1172,10 +1188,12 @@
       "TicketStage": { "StageId": 9, "StageName": "Scheduled" },
       "TicketStatus": { "StatusId": 9, "StatusName": "Open" },
       "TicketPriority": { "TicketPriorityId": 9, "TicketPriorityName": "Low" },
-      "TicketChecklistForms": {
+      "TicketChecklistForms": [
+        {
         "FormsAndSectionsId": 9,
         "FormsAndSectionsName": "Form 9"
-      },
+      }
+      ],
       "TicketAssets": [
         { "AssetId": 17, "AssetName": "Asset 17" },
         { "AssetId": 18, "AssetName": "Asset 18" }
@@ -1211,10 +1229,12 @@
         "TicketPriorityId": 10,
         "TicketPriorityName": "Medium"
       },
-      "TicketChecklistForms": {
+      "TicketChecklistForms": [
+        {
         "FormsAndSectionsId": 10,
         "FormsAndSectionsName": "Form 10"
-      },
+      }
+      ],
       "TicketAssets": [
         { "AssetId": 19, "AssetName": "Artwork 1" },
         { "AssetId": 20, "AssetName": "Artwork 2" }
@@ -1250,10 +1270,12 @@
         "TicketPriorityId": 11,
         "TicketPriorityName": "Medium"
       },
-      "TicketChecklistForms": {
+      "TicketChecklistForms": [
+        {
         "FormsAndSectionsId": 11,
         "FormsAndSectionsName": "Form 11"
-      },
+      }
+      ],
       "TicketAssets": [
         { "AssetId": 21, "AssetName": "Projector 1" },
         { "AssetId": 22, "AssetName": "Projector 2" }
@@ -1286,10 +1308,12 @@
         "TicketPriorityId": 12,
         "TicketPriorityName": "High"
       },
-      "TicketChecklistForms": {
+      "TicketChecklistForms": [
+        {
         "FormsAndSectionsId": 12,
         "FormsAndSectionsName": "Form 12"
-      },
+      }
+      ],
       "TicketAssets": [
         { "AssetId": 23, "AssetName": "X-ray Machine" },
         { "AssetId": 24, "AssetName": "Ultrasound Scanner" }

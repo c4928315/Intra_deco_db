@@ -1346,17 +1346,7 @@
     }
   ],
   "users": [
-    {
-        "id": 1,
-        "username": "Developer@alpha",
-        "password": "abc123",
-        "token": "r15RAiO2WlxXquM58CqCl0bhhCymzqViWbpLcKYQLLtodZPTu3AM268rzbsCM96v"
-    },
-    {
-        "id": 2,
-        "username": "Developer@beta",
-        "password": "def456",
-        "token": "dt9LG45ifv28sGjYx0i1GJejJfBep2C995RFdAVHPjAwUofBakHX6FZDerjqw5KK"
-    }
+    { "id": 1, "username": "user1", "password": "password1", "role": "user" },
+    { "id": 2, "username": "admin", "password": "admin123", "role": "admin" }
   ]
 }

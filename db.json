@@ -1356,150 +1356,150 @@
     "name": "Laptop Screen",
     "description": "HP Laptop Screen",
     "model": "Hewlett Packard",
-    "Asset Category": "Laptop",
+    "assetCategory": "Laptop",
     "Location": "Gigiri",
     "area": "Front Office",
-    "parent asset": "HP Laptop 01"
+    "parentAsset": "HP Laptop 01"
   },
   {
     "id": 2,
     "name": "Desktop Monitor",
     "description": "Dell Desktop Monitor",
     "model": "Dell",
-    "Asset Category": "Desktop",
+    "assetCategory": "Desktop",
     "Location": "Nairobi CBD",
     "area": "Back Office",
-    "parent asset": "Dell Desktop 01"
+    "parentAsset": "Dell Desktop 01"
   },
   {
     "id": 3,
     "name": "Printer",
     "description": "Epson Laser Printer",
     "model": "Epson",
-    "Asset Category": "Printer",
+    "assetCategory": "Printer",
     "Location": "Westlands",
     "area": "Printing Room",
-    "parent asset": "Epson Printer 01"
+    "parentAsset": "Epson Printer 01"
   },
   {
     "id": 4,
     "name": "Office Chair",
     "description": "Comfortable Office Chair",
     "model": "Generic",
-    "Asset Category": "Furniture",
+    "assetCategory": "Furniture",
     "Location": "Gigiri",
     "area": "Office Space",
-    "parent asset": "Dell Desktop 10"
+    "parentAsset": "Dell Desktop 10"
   },
   {
     "id": 5,
     "name": "Server Rack",
     "description": "Data Center Server Rack",
     "model": "Cisco",
-    "Asset Category": "Server",
+    "assetCategory": "Server",
     "Location": "Data Center",
     "area": "Server Room",
-    "parent asset": "Cisco Server 01"
+    "parentAsset": "Cisco Server 01"
   },
   {
     "id": 6,
     "name": "Whiteboard",
     "description": "Large Whiteboard",
     "model": "Generic",
-    "Asset Category": "Office Supplies",
+    "assetCategory": "Office Supplies",
     "Location": "Meeting Room",
     "area": "Conference Room",
-    "parent asset": "Sony Projector 09"
+    "parentAsset": "Sony Projector 09"
   },
   {
     "id": 7,
     "name": "Projector",
     "description": "Sony Projector",
     "model": "Sony",
-    "Asset Category": "Audio/Visual",
+    "assetCategory": "Audio/Visual",
     "Location": "Training Room",
     "area": "Training Area",
-    "parent asset": "Sony Projector 01"
+    "parentAsset": "Sony Projector 01"
   },
   {
     "id": 8,
     "name": "External Hard Drive",
     "description": "WD External Hard Drive",
     "model": "Western Digital",
-    "Asset Category": "Storage",
+    "assetCategory": "Storage",
     "Location": "IT Department",
     "area": "Storage Area",
-    "parent asset": "WD Storage 01"
+    "parentAsset": "WD Storage 01"
   },
   {
     "id": 9,
     "name": "Desk Lamp",
     "description": "LED Desk Lamp",
     "model": "Generic",
-    "Asset Category": "Lighting",
+    "assetCategory": "Lighting",
     "Location": "Office Desks",
     "area": "Workspaces",
-    "parent asset": "WD Storage 21"
+    "parentAsset": "WD Storage 21"
   },
   {
     "id": 10,
     "name": "Coffee Machine",
     "description": "Keurig Coffee Machine",
     "model": "Keurig",
-    "Asset Category": "Appliance",
+    "assetCategory": "Appliance",
     "Location": "Break Room",
     "area": "Kitchen Area",
-    "parent asset": "Keurig Coffee Machine 01"
+    "parentAsset": "Keurig Coffee Machine 01"
   },
   {
     "id": 11,
     "name": "Security Camera",
     "description": "Hikvision Security Camera",
     "model": "Hikvision",
-    "Asset Category": "Security",
+    "assetCategory": "Security",
     "Location": "Entrance",
     "area": "Security Checkpoint",
-    "parent asset": "Hikvision Camera 01"
+    "parentAsset": "Hikvision Camera 01"
   },
   {
     "id": 12,
     "name": "Air Conditioner",
     "description": "LG Split Air Conditioner",
     "model": "LG",
-    "Asset Category": "HVAC",
+    "assetCategory": "HVAC",
     "Location": "Office Rooms",
     "area": "Climate Control",
-    "parent asset": "LG AC 01"
+    "parentAsset": "LG AC 01"
   },
   {
     "id": 13,
     "name": "Conference Table",
     "description": "Wooden Conference Table",
     "model": "Generic",
-    "Asset Category": "Furniture",
+    "assetCategory": "Furniture",
     "Location": "Conference Room",
     "area": "Meeting Area",
-    "parent asset": "Hunter Fan 06"
+    "parentAsset": "Hunter Fan 06"
   },
   {
     "id": 14,
     "name": "Fire Extinguisher",
     "description": "ABC Fire Extinguisher",
     "model": "Generic",
-    "Asset Category": "Safety",
+    "assetCategory": "Safety",
     "Location": "Hallways",
     "area": "Emergency Equipment",
-    "parent asset": "Hunter Fan 08"
+    "parentAsset": "Hunter Fan 08"
   },
   {
     "id": 15,
     "name": "Ceiling Fan",
     "description": "Hunter Ceiling Fan",
     "model": "Hunter",
-    "Asset Category": "HVAC",
+    "assetCategory": "HVAC",
     "Location": "Office Spaces",
     "area": "Air Circulation",
-    "parent asset": "Hunter Fan 01"
+    "parentAsset": "Hunter Fan 01"
   }
 ]
 

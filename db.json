@@ -1503,4 +1503,113 @@
   }
 ]
 
+  "assetWorkOrder": [
+  {
+    "id": 1,
+    "reference": "ACJ3123",
+    "location": "Gigiri",
+    "status": "Closed",
+    "maintenanceType": "Corrective"
+  },
+  {
+    "id": 2,
+    "reference": "BDK5678",
+    "location": "Nairobi CBD",
+    "status": "Open",
+    "maintenanceType": "Preventive"
+  },
+  {
+    "id": 3,
+    "reference": "XYZ9012",
+    "location": "Westlands",
+    "status": "In Progress",
+    "maintenanceType": "Emergency"
+  },
+  {
+    "id": 4,
+    "reference": "LMN3456",
+    "location": "Data Center",
+    "status": "Closed",
+    "maintenanceType": "Routine"
+  },
+  {
+    "id": 5,
+    "reference": "PQR7890",
+    "location": "Meeting Room",
+    "status": "Open",
+    "maintenanceType": "Corrective"
+  },
+  {
+    "id": 6,
+    "reference": "STU1234",
+    "location": "Training Room",
+    "status": "In Progress",
+    "maintenanceType": "Preventive"
+  },
+  {
+    "id": 7,
+    "reference": "VWX5678",
+    "location": "IT Department",
+    "status": "Closed",
+    "maintenanceType": "Emergency"
+  },
+  {
+    "id": 8,
+    "reference": "ABC9012",
+    "location": "Office Desks",
+    "status": "Open",
+    "maintenanceType": "Routine"
+  },
+  {
+    "id": 9,
+    "reference": "DEF3456",
+    "location": "Break Room",
+    "status": "In Progress",
+    "maintenanceType": "Corrective"
+  },
+  {
+    "id": 10,
+    "reference": "GHI7890",
+    "location": "Entrance",
+    "status": "Closed",
+    "maintenanceType": "Preventive"
+  },
+  {
+    "id": 11,
+    "reference": "JKL1234",
+    "location": "Office Rooms",
+    "status": "Open",
+    "maintenanceType": "Emergency"
+  },
+  {
+    "id": 12,
+    "reference": "MNO5678",
+    "location": "Conference Room",
+    "status": "In Progress",
+    "maintenanceType": "Routine"
+  },
+  {
+    "id": 13,
+    "reference": "PQR9012",
+    "location": "Hallways",
+    "status": "Closed",
+    "maintenanceType": "Corrective"
+  },
+  {
+    "id": 14,
+    "reference": "STU3456",
+    "location": "Office Spaces",
+    "status": "Open",
+    "maintenanceType": "Preventive"
+  },
+  {
+    "id": 15,
+    "reference": "VWX7890",
+    "location": "Gigiri",
+    "status": "In Progress",
+    "maintenanceType": "Emergency"
+  }
+]
+
+
 }

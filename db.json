@@ -1,4 +1,143 @@
 {
+
+  "allJobs": [
+    {
+  "jobs": {
+    "endDate": "2023-12-31T18:58:04.743Z",
+    "jobName": "Software Developer",
+    "jobDescription": "Developing software applications.",
+    "companyId": 1,
+    "language": "English",
+    "jobCategoriesId": 101
+  },
+  "createdBy": "John Doe",
+  "jobsAndSections": [
+    {
+      "id": 1,
+      "sectionName": "Development",
+      "sectionDescription": "Software development tasks",
+      "jobsId": 1,
+      "jobTypesId": 201,
+      "dateCreated": "2023-12-31T18:58:04.743Z",
+      "dateModified": "2023-12-31T18:58:04.743Z",
+      "createdBy": "John Doe",
+      "modifiedBy": "John Doe",
+      "isActive": true,
+      "isDeleted": false
+    }
+  ]
+}
+,
+    {
+  "jobs": {
+    "endDate": "2023-12-31T18:58:04.743Z",
+    "jobName": "Marketing Manager",
+    "jobDescription": "Planning and executing marketing strategies.",
+    "companyId": 2,
+    "language": "English",
+    "jobCategoriesId": 102
+  },
+  "createdBy": "Jane Smith",
+  "jobsAndSections": [
+    {
+      "id": 2,
+      "sectionName": "Marketing",
+      "sectionDescription": "Marketing campaigns and promotions",
+      "jobsId": 2,
+      "jobTypesId": 202,
+      "dateCreated": "2023-12-31T18:58:04.743Z",
+      "dateModified": "2023-12-31T18:58:04.743Z",
+      "createdBy": "Jane Smith",
+      "modifiedBy": "Jane Smith",
+      "isActive": true,
+      "isDeleted": false
+    }
+  ]
+},
+    
+{
+  "jobs": {
+    "endDate": "2023-12-31T18:58:04.743Z",
+    "jobName": "Customer Support Representative",
+    "jobDescription": "Assisting customers with their inquiries.",
+    "companyId": 3,
+    "language": "English",
+    "jobCategoriesId": 103
+  },
+  "createdBy": "Mike Johnson",
+  "jobsAndSections": [
+    {
+      "id": 3,
+      "sectionName": "Support",
+      "sectionDescription": "Customer support tasks",
+      "jobsId": 3,
+      "jobTypesId": 203,
+      "dateCreated": "2023-12-31T18:58:04.743Z",
+      "dateModified": "2023-12-31T18:58:04.743Z",
+      "createdBy": "Mike Johnson",
+      "modifiedBy": "Mike Johnson",
+      "isActive": true,
+      "isDeleted": false
+    }
+  ]
+}
+,
+    {
+  "jobs": {
+    "endDate": "2023-12-31T18:58:04.743Z",
+    "jobName": "Graphic Designer",
+    "jobDescription": "Creating visually appealing designs.",
+    "companyId": 4,
+    "language": "English",
+    "jobCategoriesId": 104
+  },
+  "createdBy": "Emily White",
+  "jobsAndSections": [
+    {
+      "id": 4,
+      "sectionName": "Design",
+      "sectionDescription": "Graphic design tasks",
+      "jobsId": 4,
+      "jobTypesId": 204,
+      "dateCreated": "2023-12-31T18:58:04.743Z",
+      "dateModified": "2023-12-31T18:58:04.743Z",
+      "createdBy": "Emily White",
+      "modifiedBy": "Emily White",
+      "isActive": true,
+      "isDeleted": false
+    }
+  ]
+}
+,
+    {
+  "jobs": {
+    "endDate": "2023-12-31T18:58:04.743Z",
+    "jobName": "Financial Analyst",
+    "jobDescription": "Analyzing financial data and preparing reports.",
+    "companyId": 5,
+    "language": "English",
+    "jobCategoriesId": 105
+  },
+  "createdBy": "David Brown",
+  "jobsAndSections": [
+    {
+      "id": 5,
+      "sectionName": "Finance",
+      "sectionDescription": "Financial analysis tasks",
+      "jobsId": 5,
+      "jobTypesId": 205,
+      "dateCreated": "2023-12-31T18:58:04.743Z",
+      "dateModified": "2023-12-31T18:58:04.743Z",
+      "createdBy": "David Brown",
+      "modifiedBy": "David Brown",
+      "isActive": true,
+      "isDeleted": false
+    }
+  ]
+}
+
+  ],
+  
   "Trending": [
     {
       "id": 1,

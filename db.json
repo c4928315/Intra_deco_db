@@ -1911,7 +1911,81 @@
     "perDay": false,
     "companyLogo": "https://inclusivelyremote.com/wp-content/uploads/2023/01/IMG_3132-150x150.jpeg"
   }
+],
+
+  "motors": [
+    {
+        "id": 1,
+        "make": "Toyota",
+        "model": "Camry",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/c-005-1500x1000-1652713137.jpg?crop=0.958xw:0.719xh;0.0358xw,0.130xh&resize=1200:*",
+        "sold": false
+    },
+    {
+        "id": 2,
+        "make": "Honda",
+        "model": "Accord",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbtLk2z4ryN7AmYS5cIIWjk_Vww47_lAUncFbRLsVP02u50UEVCtfza6V6rwPUDdYDESA&usqp=CAU",
+        "sold": true
+    },
+    {
+        "id": 3,
+        "make": "Ford",
+        "model": "F-150",
+        "image": "https://example.com/ford_f150.jpg",
+        "sold": false
+    },
+    {
+        "id": 4,
+        "make": "Chevrolet",
+        "model": "Malibu",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs-3BgT7KyB3xkr-HzTDzoFVQvcNO8RUUyHESpqRZenhlJrDM-7swh-UiS5riZPcPJPkU&usqp=CAU",
+        "sold": true
+    },
+    {
+        "id": 5,
+        "make": "Nissan",
+        "model": "Altima",
+        "image": "https://www.bedfordnissan.com/blogs/1502/wp-content/uploads/2020/07/2020_Nissan_Altima_S.png",
+        "sold": false
+    },
+    {
+        "id": 6,
+        "make": "BMW",
+        "model": "3 Series",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCkLplwZt2lqPBB8LBRAWvLoayMrWh01Yjlw&usqp=CAU",
+        "sold": false
+    },
+    {
+        "id": 7,
+        "make": "Mercedes-Benz",
+        "model": "C-Class",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ZYke6BhAHsGBZuQM70Q9HmTp-_r2Kw3ha9eGFeC7vurbmHQtI540pK3y1bKgvol-4Co&usqp=CAU",
+        "sold": true
+    },
+    {
+        "id": 8,
+        "make": "Audi",
+        "model": "A4",
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/51909/a4-exterior-right-front-three-quarter-2.jpeg?q=80",
+        "sold": false
+    },
+    {
+        "id": 9,
+        "make": "Hyundai",
+        "model": "Elantra",
+        "image": "https://di-uploads-pod27.dealerinspire.com/fairfaxhyundai/uploads/2023/03/2023-elantra-sel-1024x768.jpg",
+        "sold": false
+    },
+    {
+        "id": 10,
+        "make": "Kia",
+        "model": "Sorento",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT30zXRKowsVdLuzdg60yAmgiUpA1HQoZEze4zwUJ-tK_fUlXM66zLrOjB5Ll6xOBflSvI&usqp=CAU",
+        "sold": true
+    }
 ]
+
 
 
 
